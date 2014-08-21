@@ -1,0 +1,4 @@
+import nltk
+
+
+text = 'Although essential hypertension seems to have a strong hereditary component, the triggering mechanism is unclear. It is likely that the central nervous system via autonomic sympathetic overactivation plays a key role in the development of hypertension. High heart rate has proven to be a strong predictor for cardiovascular disease and a predictor of the development of essential hypertension. Because heart rate is highly influenced by many factors such as anxiety and physical activity, it is sometimes difficult to interpret the value of heart rate measurement in individual persons. Whether heart rate itself is a risk factor for development of hypertension or just a marker for sympathetic overactivation is still a matter of debate, but the presence of elevated heart rate in both hyperkinetic and hypertensive subjects makes it an interesting and easy measurable prognostic marker.'
