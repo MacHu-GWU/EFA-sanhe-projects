@@ -1,0 +1,15 @@
+﻿Step 1
+Determine the IPSD. Identify the date of the earliest dispensing event for an antidepressant medication (Table AMM-C) during the Intake Period.
+Step 2
+Required exclusion	Exclude members who did not have a diagnosis of major depression in an inpatient, outpatient, ED, intensive outpatient or partial hospitalization setting during the 121-day period from 60 days prior to the IPSD, through the IPSD and the 60 days after the IPSD. Members who meet any of the following criteria remain in the eligible population:
+•	An outpatient visit, intensive outpatient encounter or partial hospitalization with any diagnosis of major depression. Either of the following code combinations meets criteria:
+–	AMM Stand Alone Visits Value Set with Major Depression Value Set.
+–	AMM Visits Value Set with AMM POS Value Set and Major Depression Value Set.
+•	An ED visit (ED Value Set) with any diagnosis of major depression (Major Depression Value Set).
+•	An inpatient (acute or nonacute) encounter with any diagnosis of major depression (Major Depression Value Set).
+For an inpatient (acute or nonacute) encounter, use the date of discharge.
+For a direct transfer, use the discharge date from the facility where the member was transferred.
+Step 3
+Test for Negative Medication History. Exclude members who filled a prescription for an antidepressant medication 105 days prior to the IPSD. 
+Step 4
+Calculate continuous enrollment. Members must be continuously enrolled for 105 days prior to the IPSD to 231 days after the IPSD. 

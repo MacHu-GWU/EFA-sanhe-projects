@@ -1,0 +1,18 @@
+﻿Step 1
+Identify members in the specified age range who were dispensed an antipsychotic medication (Table APC-A) during the measurement year.
+Step 2
+Calculate continuous enrollment. The member must be continuously enrolled during the measurement year.
+Step 3
+For each member, identify all antipsychotic medication dispensing events (prescriptions) during the measurement year.
+Step 4
+Identify start and end dates for drug events. Drug events are defined separately by drug using the Drug ID field in the NDC list. 
+For each drug ID, sort dispensing events chronologically by dispense date. If there is more than one prescription for the same medication dispensed on the same day, use only the prescription with the longest days supply in the calculation. 
+Starting with the first prescription in the measurement year determine if there is a second dispense date with the same Drug ID. 
+•	If there is no second dispensing event with the same Drug ID, the start date is the first prescription’s dispense date and the end date is the start date plus the days supply minus one. For example, a January 1 prescription with a 30 days supply has an end date of January 30. 
+•	If there is a second dispensing event with the same Drug ID, determine if there are gap days (a 32-day gap is allowed). Calculate the number of days between (but not including) the first prescription’s dispense date and the second prescription’s dispense date. If the number of days is less than or equal to the first prescription’s days supply plus 32 days, the gap is less than or equal to 32 days and is allowed. The start date is the first prescription’s dispense date and the end date is the second prescription’s dispense date plus days supply minus one. Continue assessing all subsequent dispensing events with allowable gaps for the same Drug ID and adjust end dates as needed.
+–	For example, a member has two dispensing events with the same Drug ID. The first is on July 1, with a 30 days supply. The second is on September 1, with a 30 days supply. The number of days between (but not including) the dispense dates is 61 (July 2–August 31).The gap is allowed because 61 is less than the first prescription’s days supply plus 32 days (30 + 32 = 62). The start date is July 1 and the end date is September 30. 
+•	If there is a second dispensing event with the same Drug ID and there is a gap that exceeds the allowable gap, assign an end date for this drug event and follow the beginning of step 4 for the remaining dispensing events. A member can have multiple start and end dates per Drug ID during the measurement year.
+Continue assessing each dispensed prescription for each Drug ID until all dispensing events are exhausted. If a dispensing event goes beyond December 31 of the measurement year, assign the end date as December 31.
+Step 5
+For each member, identify those with ≥90 consecutive treatment days. 
+For each member, using the start and end dates from all drug events identified in step 4 (which may include events for the same or different medications and may include events with allowable gaps), determine all calendar days covered by at least one antipsychotic medication. If there were ≥90 consecutive calendar days, include the member in the measure.

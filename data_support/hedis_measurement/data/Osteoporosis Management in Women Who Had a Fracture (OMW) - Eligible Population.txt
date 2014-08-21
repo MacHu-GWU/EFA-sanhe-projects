@@ -1,0 +1,14 @@
+﻿Step 1
+Identify all members who had an outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set), an ED visit (ED Value Set), a nonacute inpatient encounter (Nonacute Inpatient Value Set) or an acute inpatient encounter (Acute Inpatient Value Set) for a fracture (Fractures Value Set) during the Intake Period. If the member had more than one fracture, include only the first fracture. 
+Step 2
+Test for Negative Diagnosis History. Exclude members with an outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set), an ED visit (ED Value Set), a nonacute inpatient encounter (Nonacute Inpatient Value Set) or an acute inpatient encounter (Acute Inpatient Value Set) for a fracture (Fractures Value Set) during the 60 days (2 months) prior to the IESD. 
+For fractures requiring an inpatient stay, use the admission date to determine Negative Diagnosis History. 
+For direct transfers, use the first admission to determine the Negative Diagnosis History. 
+Step 3
+Calculate continuous enrollment. Members must be continuously enrolled during the 12 months prior to the fracture through 180 days (6 months) post-fracture.
+Step 4
+Required exclusions	Exclude members who met any of the following criteria:
+•	Members who had a BMD test (Bone Mineral Density Tests Value Set) during the 730 days (24 months) prior to the IESD. 
+•	Members who had a claim/encounter for osteoporosis therapy (Osteoporosis Medications Value Set) during the 365 days (12 months) prior to the IESD.
+•	Members who received a dispensed prescription or had an active prescription to treat osteoporosis (Table OMW-C) during the 365 days (12 months) prior to the IESD. 
+For an inpatient encounter, use the admission date to determine the days  prior to the IESD. 

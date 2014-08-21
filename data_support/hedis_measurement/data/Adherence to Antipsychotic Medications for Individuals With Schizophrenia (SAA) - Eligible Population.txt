@@ -1,0 +1,18 @@
+﻿Step 1
+Identify members with schizophrenia as those who met at least one of the following criteria during the measurement year:
+•	At least one acute inpatient encounter with any diagnosis of schizophrenia. Either of the following code combinations meets criteria:
+–	BH Stand Alone Acute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Schizophrenia Value Set.
+•	At least two visits in an outpatient, intensive outpatient, partial hospitalization, ED or nonacute inpatient setting, on different dates of service, with any diagnosis of schizophrenia. Any two of the following code combinations meet criteria:
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Schizophrenia Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Schizophrenia Value Set.
+–	ED Value Set with Schizophrenia Value Set.
+–	BH ED Value Set with BH ED POS Value Set and Schizophrenia Value Set.
+–	BH Stand Alone Nonacute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Nonacute Inpatient Value Set with BH Nonacute Inpatient POS Value Set and Schizophrenia Value Set.
+Step 2
+Required exclusions	Exclude members who met at least one of the following during the measurement year.
+•	A diagnosis of dementia (Dementia Value Set). 
+•	Did not have at least two antipsychotic medication dispensing events, with at least one of the events occurring on or between January 1 and September 30. There are two ways to identify dispensing events: by claim/encounter data and by pharmacy data. The organization must use both methods to identify dispensing events, but an event need only be identified by one method to be counted.
+–	Claim/encounter data. An antipsychotic medication (Long-Acting Injections 14 Days Supply Value Set or Long-Acting Injections 28 Days Supply Value Set).
+–	Pharmacy data. Dispensed an antipsychotic medication (Table SAA-A) on an ambulatory basis. 

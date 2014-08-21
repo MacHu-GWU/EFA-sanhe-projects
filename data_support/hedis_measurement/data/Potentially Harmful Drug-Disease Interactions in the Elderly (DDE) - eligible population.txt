@@ -1,0 +1,8 @@
+﻿Step 1
+Identify members who had an accidental fall or a hip fracture. Members with either of the following on or between January 1 of the year prior to the measurement year and 
+December 1 of the measurement year meet criteria:
+•	An accidental fall (Falls Value Set).
+•	An outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set), an ED visit (ED Value Set), a nonacute inpatient encounter (Nonacute Inpatient Value Set) or an acute inpatient encounter (Acute Inpatient Value Set) with a hip fracture (Hip Fractures Value Set).
+Identify the IESD for each member.
+Step 2
+Required Exclusions	Exclude members with a diagnosis of psychosis (Psychosis Value Set), schizophrenia (Schizophrenia Value Set), bipolar disorder (Bipolar Disorder Value Set) or seizure disorder (Seizure Disorders Value Set) on or between January 1 of the year prior to the measurement year and December 1 of the measurement year.

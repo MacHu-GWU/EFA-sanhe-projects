@@ -1,0 +1,22 @@
+﻿Step 1
+Identify all members in the specified age range who were dispensed an antipsychotic medication (Table APP–A) during the Intake Period.
+Step 2
+Test for Negative Medication History. For each member identified in step 1, test each antipsychotic prescription for a Negative Medication History. The IPSD is the dispensing date of the earliest antipsychotic prescription in the Intake Period with a Negative Medication History.
+Step 3
+Calculate continuous enrollment. Members must be continuously enrolled for 120 days (4 months) prior to the IPSD through 30 days after the IPSD.
+Step 4
+Required exclusions	Exclude members for whom first-line antipsychotic medications may be clinically appropriate. Any of the following during the measurement year meet criteria:
+•	At least one acute inpatient encounter with a diagnosis of schizophrenia, bipolar disorder or other psychotic disorder during the measurement year. Any of the following code combinations meet criteria:
+–	BH Stand Alone Acute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Stand Alone Acute Inpatient Value Set with Bipolar Disorder Value Set.
+–	BH Stand Alone Acute Inpatient Value Set with Other Psychotic Disorders Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Schizophrenia Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Bipolar Disorder Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Other Psychotic Disorders Value Set.
+•	At least two visits in an outpatient, intensive outpatient or partial hospitalization setting, on different dates of service, with a diagnosis of schizophrenia, bipolar disorder or other psychotic disorder during the measurement year. Any of the following code combinations meet criteria:
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Schizophrenia Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Schizophrenia Value Set.
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Bipolar Disorder Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Bipolar Disorder Value Set.
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Other Psychotic Disorders Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Other Psychotic Disorders Value Set.

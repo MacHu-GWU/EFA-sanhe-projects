@@ -1,0 +1,10 @@
+﻿Step 1
+Identify the IPSD. The IPSD is the earliest dispensing event for any asthma controller medication (Table ASM-D) during the measurement year.
+Step 2
+To determine the treatment period, calculate the number of days from the IPSD (inclusive) to the end of the measurement year. 
+Step 3
+Count the days covered by at least one prescription for an asthma controller medication (Table ASM-D) during the treatment period. To ensure that days supply that extends beyond the measurement year is not counted, subtract any days supply that extends beyond December 31 of the measurement year.
+Step 4
+Calculate the member’s PDC using the following equation. Round (using the .5 rule) to two decimal places.
+Total Days Covered by a Controller Medication in the Treatment Period (step 3)
+Total Days in Treatment Period (step 2)

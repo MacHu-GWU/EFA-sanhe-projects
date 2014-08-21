@@ -1,0 +1,6 @@
+﻿Step 1
+Identify deliveries. Identify all women with a delivery during the measurement year. Either of the following meets criteria:
+•	A delivery (Deliveries Value Set).
+•	A delivery on an infant claim (Deliveries Infant Record Value Set), where the organization can link infant and mother records.
+Step 2
+Exclude non-live births (Non-live Births Value Set).

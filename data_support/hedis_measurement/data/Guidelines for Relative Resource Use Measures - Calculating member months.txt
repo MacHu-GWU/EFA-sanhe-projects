@@ -1,0 +1,8 @@
+﻿Step 1
+For chronic condition measures, determine member months using a prespecified day 
+(e.g., the 15th or the last day of the month), which is determined by the organization’s administrative processes. The day selected must be consistent from month to month and year to year. For example, if the organization tallies membership on the 15th of the month and Ms. X is enrolled in the organization on January 15, Ms. X contributes one member month in January. 
+Retroactive enrollment. Organizations may count any month in which members were enrolled retrospectively and the organization received a retroactive capitation payment. 
+Step 2
+Use the member’s age on the last day of the treatment period to determine the age group where member months are counted. For example, for Relative Resource Use for People With Diabetes, if Ms. X turns 18 on December 31 and is enrolled for the entire treatment period, she contributes 12 member months to the 18–44 age category.
+Step 3
+Attribute all member months to the product line in which the member is enrolled on the last day of the treatment period.

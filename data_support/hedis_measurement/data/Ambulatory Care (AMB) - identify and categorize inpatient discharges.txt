@@ -1,0 +1,25 @@
+﻿Step 1
+Identify all acute inpatient stays with a discharge date on or between January 1 and December 31 of the measurement year.
+Step 2
+Exclude discharges with a principal diagnosis of mental health or chemical dependency (Mental and Behavioral Disorders Value Set), a principal diagnosis of live-born infant (Deliveries Infant Record Value Set) or an MS-DRG for mental health, chemical dependency or rehabilitation (IPU Exclusions MS-DRG Value Set). 
+Exclude newborn care (Newborns/Neonates MS-DRG Value Set) rendered from birth to discharge home from delivery (only include care rendered during subsequent rehospitalizations after the delivery discharge).
+Step 3
+Report total inpatient, using all discharges identified after completing steps 1 and 2.
+Step 4
+Report maternity, surgery and medicine using MS-DRGs. For organizations that use DRGs, categorize each discharge as maternity, surgery or medicine.
+•	Maternity (Maternity MS-DRG Value Set). A delivery is not required for inclusion in the Maternity category; any maternity-related stay is included. Include birthing center deliveries and count them as one day of stay.
+•	Surgery (Surgery MS-DRG Value Set).
+•	Medicine:
+–	Medicine MS-DRG Value Set.
+–	Newborns/Neonates MS-DRG Value Set. Do not include newborn care rendered from birth to discharge home from delivery; only report newborn care rendered if the baby is discharged home from delivery and is subsequently rehospitalized.
+Note: If reporting using MS-DRGs, Total Inpatient will not equal the sum of Maternity, Surgery and Medicine because DRGs for Principal Diagnosis Invalid as Discharge Diagnosis and Ungroupable are included in Total Inpatient, but are not included in maternity, surgery or medicine. 
+If the organization does not use MS-DRGs, follow steps 5–7 to categorize discharges.
+Step 5
+Report maternity. A delivery is not required for inclusion in the Maternity category; any maternity-related stay is included. Include birthing center deliveries and count them as one day of stay.
+Starting with all discharges identified in step 3, identify maternity using either of the following:
+•	A maternity-related principal diagnosis (Maternity Diagnosis Value Set).
+•	A maternity-related stay (Maternity Value Set).
+Step 6
+Report surgery. From discharges remaining after removing maternity (step 5) from total inpatient (step 3), identify surgery (Surgery Value Set).
+Step 7
+Report medicine. Categorize as medicine the discharges remaining after removing maternity (step 5) and surgery (step 6) from total inpatient (step 3).

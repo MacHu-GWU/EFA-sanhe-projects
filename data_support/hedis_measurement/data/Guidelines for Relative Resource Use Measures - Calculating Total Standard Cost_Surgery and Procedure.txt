@@ -1,0 +1,20 @@
+﻿Step 1
+Identify all surgery and procedure services provided by physicians and other professional providers during the treatment period. The valid procedure codes for these services are listed in Table SPT-Surg-Proc. 
+Step 2
+Identify modifier codes. Procedure modifiers are sometimes used to define a service in more detail. The standard price for procedure modifiers varies, so these modifiers are combined with the procedure code to match to the appropriate row in the SPT. Use only the applicable modifiers contained in the SPTs. If a specific modifier is not included in the SPT, it is considered a no applicable modifier. 
+If a procedure code is billed with a no applicable modifier, set the modifier to blank. If the procedure code has no modifiers or if there are no applicable modifiers for a specific procedure code, price the procedure code with a blank modifier. 
+Surgery and Procedure CPT codes that have a proprietary modifier indicating an anesthesiology bill are not priced.
+Step 3
+Identify surgeries or procedures provided during an acute or nonacute inpatient stay. In the SPT, services provided in an inpatient setting are under the Excel workbook tab labeled “Std Price—IP Surgery” and services provided in an outpatient setting are under the Excel workbook tab labeled “Std Price—OP Surgery.” Organizations can distinguish between services provided in an inpatient or outpatient setting in several ways:
+•	Treat a surgery or procedure as outpatient unless it has a POS code of 21, 31, 39, 51 
+or 61.
+•	If the POS code is not available, determine if the member was admitted overnight for the surgery or procedure. If so, treat the surgery or procedure as inpatient; if not, treat it as outpatient. 
+•	Treat a surgery as inpatient if it falls between the dates of an inpatient stay. If a surgery was used to classify an inpatient stay as surgical, price the surgery as inpatient.
+Step 4
+Download Table SPT-Surg-Proc for surgery and procedure services from the NCQA Web site (www.ncqa.org).
+Step 5
+Match each procedure code, applicable modifier and POS to obtain the assigned standard price for the service.
+Step 6
+Multiply the standard price by the number of units associated with the service. Most services have one unit.
+Step 7
+Sum the standard prices across the surgery and procedure services to calculate the total cost. Sum inpatient and outpatient costs separately.

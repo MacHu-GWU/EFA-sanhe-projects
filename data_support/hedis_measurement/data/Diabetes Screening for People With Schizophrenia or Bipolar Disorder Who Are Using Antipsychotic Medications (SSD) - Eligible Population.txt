@@ -1,0 +1,32 @@
+﻿Step 1
+Identify members with schizophrenia or bipolar disorder as those who met at least one of the following criteria during the measurement year.
+•	At least one acute inpatient encounter, with any diagnosis of schizophrenia or bipolar disorder. Any of the following code combinations meet criteria:
+–	BH Stand Alone Acute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Stand Alone Acute Inpatient Value Set with Bipolar Disorder Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Schizophrenia Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Bipolar Disorder Value Set.
+•	At least two visits in an outpatient, intensive outpatient, partial hospitalization, ED or nonacute inpatient setting, on different dates of service, with any diagnosis of schizophrenia. Any two of the following code combinations meet criteria:
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Schizophrenia Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Schizophrenia Value Set.
+–	ED Value Set with Schizophrenia Value Set.
+–	BH ED Value Set with BH ED POS Value Set and Schizophrenia Value Set.
+–	BH Stand Alone Nonacute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Nonacute Inpatient Value Set with BH Nonacute Inpatient POS Value Set and Schizophrenia Value Set.
+•	At least two visits in an outpatient, intensive outpatient, partial hospitalization, ED or nonacute inpatient setting, on different dates of service, with any diagnosis of bipolar disorder. Any two of the following code combinations meet criteria:
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Bipolar Disorder Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Bipolar Disorder Value Set.
+–	ED Value Set with Bipolar Disorder Value Set.
+–	BH ED Value Set with BH ED POS Value Set and Bipolar Disorder Value Set.
+–	BH Stand Alone Nonacute Inpatient Value Set with Bipolar Disorder Value Set.
+–	BH Nonacute Inpatient Value Set with BH Nonacute Inpatient POS Value Set and Bipolar Disorder Value Set.
+Step 2
+Required exclusions	Exclude members who met any of the following criteria:
+•	Members with diabetes. There are two ways to identify members with diabetes: by claim/encounter data and by pharmacy data. The organization must use both methods to identify members with diabetes, but a member need only be identified by one method to be excluded from the measure. Members may be identified as having diabetes during the measurement year or the year prior to the measurement year.
+–	Claim/encounter data. Members who met at any of the following criteria during the measurement year or the year prior to the measurement year (count services that occur over both years). 
+•	At least two outpatient visits (Outpatient Value Set), observation visits (Observation Value Set) or nonacute inpatient encounters (Nonacute Inpatient Value Set) on different dates of service, with a diagnosis of diabetes (Diabetes Value Set). Visit type need not be the same for the two encounters.
+•	At least one acute inpatient encounter (Acute Inpatient Value Set) with a diagnosis of diabetes (Diabetes Value Set).
+•	At least one ED encounter (ED Value Set) with a diagnosis of diabetes (Diabetes Value Set).
+–	Pharmacy data. Members who were dispensed insulin or oral hypoglycemics/ antihyperglycemics during the measurement year or year prior to the measurement year on an ambulatory basis (Table CDC-A).
+•	Members who had no antipsychotic medications dispensed during the measurement year. There are two ways to identify dispensing events: by claim/encounter data and by pharmacy data. The organization must use both methods to identify dispensing events, but an event need only be identified by one method to be counted.
+–	Claim/encounter data. An antipsychotic medication (Long-Acting Injections Value Set).
+–	Pharmacy data. Dispensed an antipsychotic medication (Table SSD-D) on an ambulatory basis.

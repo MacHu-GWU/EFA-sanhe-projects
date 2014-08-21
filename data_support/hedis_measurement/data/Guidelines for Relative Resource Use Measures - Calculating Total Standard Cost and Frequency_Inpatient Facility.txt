@@ -1,0 +1,31 @@
+﻿Step 1
+Identify all inpatient stays that occurred during the treatment period. Include stays that started before the treatment period or ended after the close of the treatment period. Create a unique record describing the member’s inpatient stay. 
+Step 2
+Determine the LOS for frequency reporting. Compute the LOS in days, using paid for or expected-to-be-paid-for days only. Include all paid days in the calculation, whether or not they fall inside the treatment period. Use this LOS when reporting the frequency counts for each inpatient stay. 
+Step 3
+Determine the LOS category for standard cost reporting. Assign the appropriate LOS group using Table C. 
+Table C: Length of Stay Group
+LOS (Days)	LOS GRP
+1		A
+2		B
+3-4		C
+5-6 	D
+7-8 	E
+9-15 	F
+16 or more	G
+Step 4
+Determine the LOS per diem multiplier. If the inpatient stay falls within the treatment period, 
+use the total days the organization paid for or expects to pay for as the per diem multiplier. If the inpatient stay does not fall inside the treatment period, or if the organization did not pay for all days or does not expect to pay for all days, count only the days within the treatment period (including the last day of the treatment period) that are paid for or expected to be paid for, as the per diem multiplier.
+Step 5
+Determine if the inpatient stay is acute or nonacute. Nonacute stays include nursing home, skilled nursing facility, rehabilitation, hospice, hospital transitional care, swing bed and respite; all other inpatient stays are acute. 
+Report acute and nonacute stays separately when reporting frequency of inpatient stays.
+Note: SPT-INP tables assign the acute field a value of “1” if the discharge was from an acute inpatient stay and a value of “0” if the discharge is from a nonacute stay.
+Step 6
+Assign an Aggregate Diagnostic Service Category (ADSC) for the inpatient stay using the principal discharge diagnosis. To assign ADSC, download the ADSC Table from the NCQA Web site (www.ncqa.org) and match the principal ICD-9-CM Diagnosis code from the discharge claim to an ADSC. If the principal ICD-9-CM Diagnosis code is invalid or missing, or cannot be determined, map the inpatient stay to the ADSC Table’s MISA category.
+Step 7
+Determine if the member underwent major surgery during the inpatient stay. Identify major surgeries by using the list of codes from the Maj-Surg Table. Flag members if one procedure code in the Maj-Surg Table is present from any provider during the stay.
+If the inpatient stay is acute and has a major surgery, include it in the Acute Surgery category for frequency reporting. If the stay is acute but does not have a major surgery, include it in the Acute Medicine category. Nonacute stays are not categorized as surgical or nonsurgical for frequency reporting.
+Note: SPT-INP-ADSC assigns the field MAJSURG a value of “1” to indicate the standard price when a major surgery is identified and a value of “0” if no major surgery is identified during the member’s inpatient stay.
+Step 8
+Match each ADSC, LOS group, major surgery flag and acute or nonacute assignment for the stay to the NCQA-provided SPT to obtain the assigned standard price. Multiply the per diem multiplier by the per diem standard price to compute the total standard cost for the stay.
+For frequency reporting, report the stay in the appropriate category based on the acute or nonacute assignment and surgery or medicine assignment.

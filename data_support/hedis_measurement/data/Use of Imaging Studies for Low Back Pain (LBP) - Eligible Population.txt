@@ -1,0 +1,21 @@
+﻿Step 1
+Identify all members in the specified age range who had any of the following during the Intake Period:
+•	Outpatient visit (Outpatient Value Set), with a principal diagnosis of low back pain (Low Back Pain Value Set).
+•	Observation visit (Observation Value Set), with a principal diagnosis of low back pain (Low Back Pain Value Set).
+•	ED visit (ED Value Set), with a principal diagnosis of low back pain (Low Back Pain Value Set). Do not include ED visits that result in an inpatient admission.
+•	Osteopathic manipulative treatment (Osteopathic Manipulative Treatment Value Set), with a principal diagnosis of low back pain (Low Back Pain Value Set).
+Step 2
+Determine the IESD. For each member identified in step 1, determine the earliest episode of low back pain. If the member had more than one encounter, include only the first encounter.
+Step 3
+Test for Negative Diagnosis History. Exclude members with a diagnosis of low back pain (Low Back Pain Value Set) during the 180 days (6 months) prior to the IESD.
+Step 4
+Required exclusions	Exclude any member who had a diagnosis for which imaging is clinically appropriate. Any of the following meet criteria: 
+•	Cancer. Cancer any time during the member’s history through 28 days after the IESD. Any of the following meet criteria:
+–	Malignant Neoplasms Value Set.
+–	Other Neoplasms Value Set.
+–	History of Malignant Neoplasm Value Set.
+•	Recent trauma. Trauma (Trauma Value Set) any time during the 12 months (1 year) prior to the IESD through 28 days after the IESD.
+•	Intravenous drug abuse. IV drug abuse (IV Drug Abuse Value Set) any time during the 12 months (1 year) prior to the IESD through 28 days after the IESD.
+•	Neurologic impairment. Neurologic impairment (Neurologic Impairment Value Set) any time during the 12 months (1 year) prior to the IESD through 28 days after the IESD.
+Step 5
+Calculate and continuous enrollment. Members must be continuously enrolled for 180 days (6 months) prior to the IESD through 28 days after the IESD.

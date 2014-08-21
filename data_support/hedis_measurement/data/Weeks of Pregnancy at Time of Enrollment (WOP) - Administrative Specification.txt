@@ -1,0 +1,10 @@
+﻿Step 1
+Prior to pregnancy. Identify all women whose most recent date of enrollment in the organization was more than 40 weeks (280 days or more prior to delivery) prior to the delivery date. These women will be included in the ≤0 weeks row of Table WOP-1. Include women even if they had a premature birth. 
+Step 2
+Premature births. For women with a delivery date ≤40 weeks (fewer than 280 days prior to delivery) after enrollment in the organization, identify deliveries that resulted in a premature birth (Premature Births Value Set).
+For women who had a premature birth, use either the EDD or gestational age of the fetus recorded in delivery records or the last menstrual period noted in the patient’s prenatal care record to estimate the weeks of pregnancy at enrollment in the organization. If these are not available, include these women in the Unknown category.
+Step 3
+Assume a full-term pregnancy for all remaining women (i.e., those not enrolled in the organization more than 40 weeks prior to the delivery date, and for whom there is no indication of a premature birth). For these women, the weeks of pregnancy at enrollment is determined by subtracting the number of weeks of enrollment in the organization prior to delivery from 40 weeks. Calculate the number of women in each remaining category:
+•	1–12 weeks of pregnancy (279–196 days prior to delivery).
+•	13–27 weeks of pregnancy (195–91 days prior to delivery).
+•	28 or more weeks of pregnancy (≤90 days prior to delivery).

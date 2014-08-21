@@ -1,0 +1,17 @@
+﻿Step 1
+Identify members as having persistent asthma who met at least one of the following criteria during both the measurement year and the year prior to the measurement year. Criteria need not be the same across both years.
+•	At least one ED visit (ED Value Set), with a principal diagnosis of asthma (Asthma Value Set).
+•	At least one acute inpatient encounter (Acute Inpatient Value Set), with a principal diagnosis of asthma (Asthma Value Set).
+•	At least four outpatient visits (Outpatient Value Set) or observation visits (Observation Value Set) on different dates of service, with any diagnosis of Asthma (Asthma Value Set) and at least two asthma medication dispensing events (Table ASM-C). Visit type need not be the same for the four visits.
+•	At least four asthma medication dispensing events (Table ASM-C).
+Step 2
+A member identified as having persistent asthma because of at least four asthma medication dispensing events, where leukotriene modifiers were the sole asthma medication dispensed in that year, must also have at least one diagnosis of asthma (Asthma Value Set) during the same year as the leukotriene modifier (i.e., the measurement year or the year prior to the measurement year). 
+Step 3
+Required exclusions	Exclude members who had any diagnosis from any of the following value sets, any time during the member’s history through December 31 of the measurement year:
+•	Emphysema Value Set.
+•	Other Emphysema Value Set.
+•	COPD Value Set.
+•	Obstructive Chronic Bronchitis Value Set.
+•	Chronic Respiratory Conditions Due To Fumes/Vapors Value Set.
+•	Cystic Fibrosis Value Set.
+•	Acute Respiratory Failure Value Set.

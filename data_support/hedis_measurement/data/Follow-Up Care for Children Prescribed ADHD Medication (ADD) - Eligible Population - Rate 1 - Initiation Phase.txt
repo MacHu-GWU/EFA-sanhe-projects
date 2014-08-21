@@ -1,0 +1,11 @@
+﻿Step 1
+Identify all children in the specified age range who were dispensed an ADHD medication (Table ADD-A) during the 12-month Intake Period.
+Step 2
+Test for Negative Medication History. For each member identified in step 1, test each ADHD prescription for a Negative Medication History. The IPSD is the dispensing date of the earliest ADHD prescription in the Intake Period with a Negative Medication History. 
+Step 3
+Calculate continuous enrollment. Members must be continuously enrolled for 120 days (4 months) prior to the IPSD through 30 days after the IPSD.
+Step 4
+Exclude members who had an acute inpatient encounter for mental health or chemical dependency during the 30 days after the IPSD. An acute inpatient encounter in combination with any of the following meet criteria:
+- A principal mental health diagnosis (Mental Health Diagnosis Value Set).
+- A principal diagnosis of chemical dependency (Chemical Dependency Value Set).
+

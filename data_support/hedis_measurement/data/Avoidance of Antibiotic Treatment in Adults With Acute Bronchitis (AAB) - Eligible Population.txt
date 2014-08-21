@@ -1,0 +1,24 @@
+﻿Step 1
+Identify all members in the specified age range who had an outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set) or an ED visit (ED Value Set) during the Intake Period, with a diagnosis of acute bronchitis (Acute Bronchitis Value Set).
+Do not include ED visits that result in an inpatient admission.
+Step 2
+Determine all acute bronchitis Episode Dates. For each member identified in 
+step 1, determine all outpatient or ED claims/encounters with a diagnosis of acute bronchitis.
+Step 3
+Test for Negative Comorbid Condition History. Exclude Episode Dates when the member had a claim/encounter with any diagnosis for a comorbid condition during the 12 months prior to or on the Episode Date. A code from any of the following meets criteria for a comorbid condition:
+•	HIV Value Set.
+•	Malignant Neoplasms Value Set.
+•	Emphysema Value Set.
+•	COPD Value Set.
+•	Cystic Fibrosis Value Set.
+•	Comorbid Conditions Value Set.
+Step 4
+Test for Negative Medication History. Exclude Episode Dates where a new or refill prescription for an antibiotic medication (Table AAB-D) was filled 30 days prior to the Episode Date or was active on the Episode Date.
+Step 5
+Test for Negative Competing Diagnosis. Exclude Episode Dates where during the period 30 days prior to the Episode Date through 7 days after the Episode Date (inclusive) the member had a claim/encounter with any competing diagnosis. A code from either of the following meets criteria for a competing diagnosis:
+•	Pharyngitis Value Set.
+•	Competing Diagnosis Value Set.
+Step 6
+Calculate continuous enrollment. The member must be continuously enrolled with no more than one gap in coverage from 365 days (1 year) prior to the Episode Date through 7 days after the Episode Date.
+Step 7
+Select the IESD. This measure examines the earliest eligible episode per member.

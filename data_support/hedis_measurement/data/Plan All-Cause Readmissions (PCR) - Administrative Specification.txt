@@ -1,0 +1,18 @@
+﻿Step 1
+Identify all acute inpatient stays with a discharge date on or between January 1 and December 1 of the measurement year. 
+Include acute admissions to behavioral healthcare facilities. 
+Step 2
+Acute-to–acute transfers: Keep the original admission date as the Index Admission Date, but use the transfer’s discharge date as the Index Discharge Date.
+Step 3
+Exclude acute inpatient hospital discharges with a principal diagnosis of pregnancy (Pregnancy Value Set) or a principal diagnosis for a condition originating in the perinatal period (Perinatal Conditions Value Set). 
+Step 4
+Required exclusions	Exclude stays for the following reasons:
+•	Inpatient stays with discharges for death.
+•	Acute inpatient discharge with a principal diagnosis of pregnancy (Pregnancy Value Set). 
+•	Acute inpatient discharge with a principal diagnosis of a condition originating in the perinatal period (Perinatal Conditions Value Set).
+Step 5
+Required exclusions	For all acute inpatient discharges identified using steps 1–4, determine if there was a planned hospital stay within 30 days using all acute inpatient stays. Exclude any acute inpatient discharge as an Index Hospital Stay if the admission date of the first planned hospital stay is within 30 days and includes any of the following.
+•	A principal diagnosis of maintenance chemotherapy (Chemotherapy Value Set). 
+•	A principal diagnosis of rehabilitation (Rehabilitation Value Set). 
+•	An organ transplant (Kidney Transplant Value Set, Bone Marrow Transplant Value Set, Organ Transplant Other Than Kidney Value Set).
+•	A potentially planned procedure (Potentially Planned Procedure Value Set) without a principal acute diagnosis (Acute Condition Value Set).

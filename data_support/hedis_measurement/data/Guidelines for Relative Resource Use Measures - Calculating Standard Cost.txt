@@ -1,0 +1,18 @@
+﻿Step 1
+Identify eligible members for each major clinical condition and assign them a risk group.
+Step 2
+Identify all services rendered during the treatment period for each service category:
+•	Inpatient Facility (services provided by a facility during an inpatient stay).
+•	E&M (inpatient visits, and outpatient visits including office visits, consultations and other services).
+•	Surgery and Procedure (inpatient and outpatient procedures).
+•	Diagnostic Imaging.
+•	Diagnostic Laboratory. 
+•	Pharmacy (ambulatory prescriptions).
+Step 3
+Multiply the standard price by the units of service to compute a standard cost for the service. Refer to each service category’s instructions (i.e., Calculating Total Standard Cost).
+Step 4
+For each major clinical condition, sum each member’s total standard cost for each service category. 
+Step 5
+Report the total standard cost by age, gender and risk group.
+Step 6
+In each service category, if a member’s standard cost exceeds the cap amount, report the total standard cost, including only the cap amount from Table SPT-CAP. Do not exclude members who exceed the cap.

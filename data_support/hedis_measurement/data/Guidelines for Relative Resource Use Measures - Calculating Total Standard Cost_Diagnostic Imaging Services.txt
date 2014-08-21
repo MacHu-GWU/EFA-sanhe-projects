@@ -1,0 +1,22 @@
+﻿Step 1
+Identify all imaging services during the treatment period. The valid procedure and revenue codes for these services are listed in Table SPT-IMAG.
+Step 2
+Identify codes to price. CPT procedure codes are the preferred codes for pricing imaging services. If a CPT code is present for a service, price the service using the available CPT code and procedure modifier (if applicable) using Table SPT-IMAG. If a CPT code is not present for a service, price the service using the available revenue code. 
+Identify modifier codes when a CPT code is present. Procedure modifiers are sometimes used to define a service in more detail. In Table SPT-IMAG, the standard price for the same CPT code can include multiple rows, reflecting the combinations of CPT codes and modifiers. 
+For imaging services, Table SPT-IMAG recognizes the following applicable modifiers:
+•	26 = Professional Component.
+•	TC = Technical Component. 
+If an imaging service is billed with a blank modifier, match the procedure code and blank modifier on the service to the appropriate row in Table SPT-IMAG. 
+If an imaging service is billed with an applicable modifier, match the procedure code and modifier on the service to the appropriate row in Table SPT-IMAG. 
+If an imaging service is billed with a no applicable modifier, set the procedure modifier to blank and match the procedure code and blank modifier on the service to the appropriate row in Table SPT-IMAG. 
+If the procedure code has no modifiers or if all modifiers for a specific procedure code are not applicable, price the procedure code with a blank modifier.
+Refer to the “Example” table in Calculating Total Standard Cost: Surgery and Procedure. 
+If the same service is billed by multiple providers, include and price all services. For example, if a physician and a facility bill for the same service, price both.
+Step 3
+Download Table SPT-IMAG from the NCQA Web site (www.ncqa.org).
+Step 4
+Match each applicable procedure or revenue code to obtain the assigned standard price for the service.
+Step 5
+Multiply the standard price by the number of units associated with the service. Most services have one unit.
+Step 6
+Sum the standard prices across the imaging services to calculate total cost.

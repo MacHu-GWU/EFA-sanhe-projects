@@ -1,0 +1,16 @@
+﻿Step 1
+Identify the most recent BP reading noted during the measurement year. The reading must occur after the date when the diagnosis of hypertension was confirmed. 
+Do not include BP readings:
+•	Taken during an acute inpatient stay or an ED visit.
+•	Taken during an outpatient visit which was for the sole purpose of having a diagnostic test or surgical procedure performed (e.g., sigmoidoscopy, removal of a mole).
+•	Obtained the same day as a major diagnostic or surgical procedure (e.g., stress test, administration of IV contrast for a radiology procedure, endoscopy).
+•	Reported by or taken by the member.
+If multiple readings were recorded for a single date, use the lowest systolic and lowest diastolic BP on that date as the representative BP. The systolic and diastolic results do not need to be from the same reading.
+Step 2
+Determine numerator compliance based on the following criteria:
+•	Members 18-59 years of age as of December 31 of the measurement year whose BP was <140/90 mm Hg.
+•	Members 60-85 years of age as of December 31 of the measurement year and flagged with a diagnosis of diabetes whose BP was <140/90 mm Hg.
+•	Members 60-85 years of age as of December 31 of the measurement year and flagged as not having a diagnosis of diabetes whose BP was <150/90 mm Hg.  
+The member is not compliant if the BP reading does not meet the specified threshold or is missing, or if there is no BP reading during the measurement year or if the reading is incomplete (e.g., the systolic or diastolic level is missing).
+Step 3
+A single rate is reported for all three groups. Sum the numerator events from Step 2 to obtain the rate.

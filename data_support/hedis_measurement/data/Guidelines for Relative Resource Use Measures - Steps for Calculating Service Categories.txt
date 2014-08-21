@@ -1,0 +1,22 @@
+﻿Step 1
+Identify eligible members for each major clinical condition and assign them a risk group. 
+Step 2
+Identify all inpatient, ED, pharmacy and condition-specific services rendered during the treatment period. 
+Step 3
+Match the services to the codes provided in the specifications then group them into the following utilization categories:
+•	Acute Medicine: Discharges, Days.
+•	Acute Surgery: Discharges, Days. 
+•	Nonacute: Discharges, Days.
+•	ED: Discharges.
+•	Pharmacy Utilization:
+–	Name brand only. 
+–	Name brand—Generic exists. 
+–	Generic only. 
+–	Generic name—Name brand exists. 
+•	Other condition-specific categories (e.g., MRI, cardiac procedures):
+•	RCA and RDI report information on select cardiac procedures.
+Step 4
+Count the unique services rendered during the treatment period in each utilization category, for each risk group. Refer to Guideline 8—Counting multiple billings for the same date of service. 
+Count the pharmacy prescriptions dispensed during the treatment period in each utilization category. One prescription is an amount lasting 30 days or less. To calculate the number of prescriptions that have a days supply of 30 days or longer, divide the days supply by 30 and round down to convert.
+Step 5
+Aggregate and report service frequencies by age, gender and risk group.

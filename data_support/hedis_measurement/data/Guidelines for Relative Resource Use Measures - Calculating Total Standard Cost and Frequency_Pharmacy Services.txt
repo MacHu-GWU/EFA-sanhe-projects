@@ -1,0 +1,25 @@
+﻿Step 1
+Identify all ambulatory prescriptions dispensed (pharmacy services) during the treatment period.
+Step 2
+Identify the NDC code and the metric quantity for each prescription. If metric quantity is available, the organization must use it to determine standard price. If the metric quantity is not available, use the standard unit price per day. 
+Organizations that use proprietary or regional codes must map them to standard NDC codes.
+Step 3
+Download Table SPT-Pharm from the NCQA Web site (www.ncqa.org). The table contains:
+•	The NDC code.
+•	A standard unit price per metric quantity.
+•	A standard unit price per day.
+•	Prescription category:
+	–	Name brand only (N1).
+–	Name brand—Generic exists (N2).	–	Generic only (G1).
+–	Generic name—Name brand exists (G2).
+Step 4
+Match each NDC code to the appropriate row in Table SPT-Pharm.
+Step 5
+For pharmacy prescription utilization, aggregate and report service frequencies by organization, in each prescription category, at the total level.
+One prescription is an amount lasting 30 days or less. To calculate the number of prescriptions when the days supply is 30 days or more, divide the days supply by 30 and round down to convert.
+Step 6
+If the metric quantity is available, multiply the metric quantity dispensed by the standard price per metric quantity for each prescription.
+Step 7
+If the metric quantity is unavailable, multiply the days supply dispensed by the standard unit price per day for each prescription.
+Step 8
+Sum the unit prices for all unique prescription dispensing events. 

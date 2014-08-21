@@ -1,0 +1,13 @@
+﻿Step 1
+Identify all members who during the Intake Period had an acute inpatient discharge (Acute Inpatient UB Revenue Value Set) or an ED visit (ED Value Set) with a primary diagnosis of COPD (COPD Value Set), emphysema (Emphysema Value Set) or chronic bronchitis (Chronic Bronchitis Value Set). 
+Do not include ED visits that result in an inpatient admission.
+Note: The denominator for this measure is based on acute inpatient discharges and ED visits, not on members. Only UB Revenue codes are used to identify acute inpatient discharges because using other codes could result in double-counting.
+Step 2
+Identify all COPD Episode Dates. For each member identified in step 1, identify all acute inpatient discharges and ED visits. Do not include ED visits that result in an inpatient admission.
+Step 3
+Test for transfers. Exclude Episode Dates when the member was transferred directly to an acute or nonacute care facility for any diagnosis.
+Step 4
+Test for readmission and additional ED visits. Exclude Episode Dates when the member was readmitted to an acute or nonacute care facility for any diagnosis within 14 days after the Episode Date. Exclude Episode Dates when the member had an ED visit for any diagnosis within 14 days after the Episode Date.
+Step 5
+Calculate continuous enrollment. The member must be continuously enrolled without a gap in coverage from the Episode Date through 30 days after the Episode Date. 
+Note: All Episode Dates that were not excluded remain in the denominator. The denominator for this measure is based on acute inpatient discharges and ED visits, not members.

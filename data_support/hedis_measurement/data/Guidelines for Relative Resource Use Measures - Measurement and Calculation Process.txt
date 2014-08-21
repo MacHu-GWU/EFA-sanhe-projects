@@ -1,0 +1,8 @@
+﻿Step 1
+Identify members for each major clinical condition and determine the age and gender category for each member. The medical and pharmacy services for these members are identified for the treatment period.
+Step 2
+Calculate total standard costs for each service category using NCQA-provided SPTs. Specifications list services to be measured and SPTs provide the standard price. Refer to the SPT Tables posted on the NCQA Web site (www.ncqa.org).
+Step 3
+Report service frequency and standard costs for the eligible population by member cohort, across all service categories. 
+Step 4
+NCQA uses the stratified data submitted by all organizations to calculate each organization’s expected RRU amounts for each major clinical condition. 

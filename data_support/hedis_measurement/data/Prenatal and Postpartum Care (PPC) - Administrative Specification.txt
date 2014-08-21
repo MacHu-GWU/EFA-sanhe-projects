@@ -1,0 +1,14 @@
+﻿Step 1
+Determine enrollment status during the first trimester. For all women in the eligible population, identify those who were enrolled on or before 280 days prior to delivery (or estimated date of delivery [EDD]). For these women, proceed to step 2. 
+For women not enrolled on or before 280 days prior to delivery (or EDD), who were therefore pregnant at the time of enrollment, proceed to step 3.
+Step 2
+Determine continuous enrollment for the first trimester. Identify women from step 1 who were continuously enrolled during the first trimester (176–280 days prior to delivery [or EDD]), with no gaps in enrollment. For these women, determine numerator compliance using the decision rules for Identifying Prenatal Care For Women Continuously Enrolled During the First Trimester.
+For women who were not continuously enrolled during the first trimester (e.g., had a gap between 176 and 280 days before delivery), proceed to step 3. 
+Step 3
+Determine the start date of the last enrollment segment (i.e., the enrollment segment during the pregnancy with the start date that is closest to the delivery date).
+For women whose last enrollment started on or between 219 and 279 days before delivery, proceed to step 4. 
+For women whose last enrollment started less than 219 days before delivery, proceed to step 5.
+Step 4
+Determine numerator compliance. If the last enrollment segment started on or between 219 and 279 days before delivery, determine numerator compliance using the instructions for Identifying Prenatal Care for Women Not Continuously Enrolled During the First Trimester and find a visit between the last enrollment start date and 176 days before delivery. 
+Step 5
+Determine numerator compliance. If the last enrollment segment started less than 219 days before delivery (i.e., between 219 days before delivery and the day of delivery), determine numerator compliance using the instructions for Identifying Prenatal Care for Women Not Continuously Enrolled During the First Trimester and find a visit within 42 days after enrollment.

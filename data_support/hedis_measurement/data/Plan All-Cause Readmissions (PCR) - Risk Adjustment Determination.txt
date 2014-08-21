@@ -1,0 +1,30 @@
+﻿Step 1
+Identify all diagnoses for encounters during the classification period. Include the following when identifying encounters:
+•	Outpatient visits (Outpatient Value Set).
+•	Observation visits (Observation Value Set).
+•	Nonacute inpatient encounters (Nonacute Inpatient Value Set).
+•	Acute inpatient encounters (Acute Inpatient Value Set).
+•	ED visits (ED Value Set).
+Exclude the primary discharge diagnosis on the IHS.
+Step 2
+Assign each diagnosis to one comorbid Clinical Condition (CC) category using Table CC—Comorbid. 
+Exclude all diagnoses that cannot be assigned to a comorbid CC category. For members with no qualifying diagnoses from face-to-face encounters, skip to the Risk Adjustment Weighting section.
+All digits must match exactly when mapping diagnosis codes to the comorbid CCs.
+Step 3
+Determine HCCs for each comorbid CC identified. Refer to Table HCC—Rank.
+For each stay’s comorbid CC list, match the comorbid CC code to the comorbid CC code in the table, and assign:
+•	The ranking group.
+•	The rank.
+•	The HCC.
+For comorbid CCs that do not match to Table HCC—Rank, use the comorbid CC as the HCC and assign a rank of 1.
+Note: One comorbid CC can map to multiple HCCs; each HCC can have one or more comorbid CCs.
+Step 4
+Assess each ranking group separately and select only the highest ranked HCC in each ranking group using the Rank column (1 is the highest rank possible). 
+Drop all other HCCs in each ranking group, and de-duplicate the HCC list if necessary.
+Step 5
+Identify combination HCCs listed in Table HCC—Comb. 
+Some combinations suggest a greater amount of risk when observed together. For example, when diabetes and CHF are present, an increased amount of risk is evident. Additional HCCs are selected to account for these relationships. 
+Compare each stay’s list of unique HCCs to those in the HCC column in Table HCC—Comb and assign any additional HCC conditions.
+For fully nested combinations (e.g., the diabetes/CHF combination is nested in the diabetes/ CHF/renal combination), use only the more comprehensive pattern. In this example, only the diabetes/CHF/renal combination is counted.
+For overlapping combinations (e.g., the CHF, COPD combination overlaps the CHR/renal/ diabetes combination), use both sets of combinations. In this example, both CHF/COPD and CHF/renal/diabetes combinations are counted.
+Based on the combinations, a member can have none, one or more of these added HCCs.

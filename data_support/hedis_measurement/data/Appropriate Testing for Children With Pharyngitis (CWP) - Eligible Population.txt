@@ -1,0 +1,13 @@
+﻿Step 1
+Identify all members who had an outpatient visit (Outpatient Value Set), an observation visit (Observation Value Set) or an ED visit (ED Value Set) during the intake period, with only a diagnosis of pharyngitis (Pharyngitis Value Set)
+Exclude claims/encounters with more than one diagnosis and ED visits that result in an inpatient admission.
+Step 2
+Determine all pharyngitis Episode Dates. For each member identified in step 1, determine all outpatient or ED claims/encounters with only a diagnosis of pharyngitis.
+Step 3
+Determine if antibiotics (Table CWP-C) were dispensed for any of the Episode Dates. For each Episode Date with a qualifying diagnosis, determine if antibiotics were dispensed on or up to three days after. Exclude Episode Dates if the member did not receive antibiotics on or three days after the Episode Date.
+Step 4
+Test for Negative Medication History. Exclude Episode Dates where a new or refill prescription for an antibiotic medication (Table CWP-C) was filled 30 days prior to the Episode Date or where a prescription filled more than 30 days prior to the Episode Date was active on the Episode Date.
+Step 5
+Calculate continuous enrollment. The member must be continuously enrolled without a gap in coverage from 30 days prior to the Episode Date through 3 days after the Episode Date.
+Step 6
+Select the IESD. This measure examines the earliest eligible episode per member.

@@ -1,0 +1,12 @@
+﻿Step 1
+For each member, count the units of controller medications (Table AMR-A) dispensed during the measurement year. Refer to the definition of Units of medications. 
+Step 2
+For each member, count the units of reliever medications (Table AMR-A) dispensed during the measurement year. Refer to the definition of Units of medications. 
+Step 3
+For each member, sum the units calculated in step 1 and step 2 to determine units of total asthma medications. 
+Step 4
+For each member, calculate the ratio of controller medications to total asthma medications using the following formula.
+Units of Controller Medications (step 1)
+Units of Total Asthma Medications (step 3)
+Step 5
+Sum the total number of members who have a ratio of 0.50 or greater in step 4. 

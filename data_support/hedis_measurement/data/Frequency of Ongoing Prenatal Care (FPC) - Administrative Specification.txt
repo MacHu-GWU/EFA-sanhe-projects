@@ -1,0 +1,35 @@
+﻿Step 1
+Identify the delivery date using hospital discharge data.
+Step 2
+Identify the date when the member enrolled in the organization and determine the stage of pregnancy at time of enrollment. If the member has gaps in enrollment during pregnancy, use the last enrollment segment to determine continuous enrollment in the organization. For members with a gap in enrollment any time during pregnancy (including a gap in the first trimester), the last enrollment segment is the enrollment start date during the pregnancy that is closest to the delivery date. 
+Use the following approach (or an equivalent method) to calculate the stage of pregnancy at time of enrollment. If gestational age is not available, assume a gestational age of 280 days (40 weeks).
+•	Convert gestational age into days.
+•	Subtract gestational age (in days) from the date of delivery (step 1).
+•	Subtract the date obtained above from the date when the member enrolled in the organization to determine the stage of pregnancy at time of enrollment.
+•	Divide the numbers of days the member was pregnant at enrollment (step 3) by 30. Round the resulting number according to the .5 rule to a whole number.
+For example, delivery date is August 8, 2014; gestational age is 33 weeks; date of enrollment is May 6, 2014. Given these variables, the process is: 
+–	Gestational age in days is 231 days (33 weeks  7 days/week).
+–	Date of delivery – gestational age (in days) is December 20, 2013 (August 8, 2014 – 231 days).
+–	Date when the member enrolled in the organization – date obtained in step 2 is 137 days (May 6, 2014 – December 20, 2013).
+–	Month in which prenatal care began is 4.56 months (137 days/30 days) and then round up to 5 months using the 0.5 rule.
+This member’s stage of pregnancy at time of enrollment is 5 months. 
+Step 3
+Use Table FPC-A to find the number of recommended prenatal visits by gestational age and stage of pregnancy at time of enrollment per the American College of Obstetricians and Gynecologists (ACOG). The chart subtracts the number of missed visits prior to the date the member enrolled from the number of recommended visits for a given gestational age.
+ACOG recommends that women with an uncomplicated pregnancy receive visits every 
+4 weeks for the first 28 weeks of pregnancy, every 2–3 weeks until 36 weeks of pregnancy, and weekly thereafter. For example, ACOG recommends 14 visits for a 40-week pregnancy. If the member enrolled during her fourth month (3 missed visits prior to enrollment in the organization), the expected number of visits is 14 – 3 = 11.
+For deliveries with a gestational age <28 weeks or >43 weeks, calculate the expected number of prenatal care visits using the date when the member enrolled and ACOG’s recommended schedule of visits. For example, if gestational age is 26 weeks and the member enrolled during her second month of pregnancy, the expected number of prenatal care visits is 5 (6 expected visits [1 visit every 4 weeks or 6 visits in 24 weeks], less 1 visit missed in the first month).
+If gestational age is 44 weeks and the member enrolled during her third month of pregnancy, the expected number of prenatal care visits is 16 (14 expected visits for a 40-week gestation plus 1 visit each additional week [18 total expected prenatal care visits], less 2 visits missed in the first and second months).
+Step 4
+Identify the number of discrete prenatal care visits the member received during the course of her pregnancy and while enrolled in the organization using claims and encounter data. 
+To identify prenatal visits that occurred during the first trimester, refer to the Prenatal and Postpartum Care measure decisions rules for Identifying Prenatal Care For Women Continuously Enrolled During the First Trimester. 
+To identify prenatal visits that occurred during the second and third trimester, refer to the prenatal and postpartum care measure instructions for Identifying Prenatal Care For Women Not Continuously Enrolled During the First Trimester. Visits that occur on the date of delivery and meet the prenatal visit criteria count toward the measure.
+All criteria must be met for encounters to be counted as a discrete prenatal care visit. For example, Decision Rules 2 and 3 require multiple components (typically a visit combined with a diagnosis code or another prenatal service such as a lab test or an ultrasound). Ultrasound and lab results alone are not considered a discrete prenatal care visit unless they are combined with other criteria.
+Services that occur over multiple visits can be combined to create a discrete prenatal care visit if all services occur within the time frame established in the measure and services are not double counted. Organizations must develop systems to avoid double counting. For example, a code from the Stand Alone Prenatal Visits Value Set on the same date of service as a code from the Prenatal Visits Value Set is interpreted to represent a single visit/encounter and may not be counted twice. If the member had a gap in enrollment, count only the visits received during the last enrollment segment.
+Step 5
+Calculate the ratio of observed visits (step 4) to expected visits (step 3).
+Step 6
+Report each woman in the appropriate category:
+•	<21 percent.
+•	21 percent–40 percent.
+•	41 percent–60 percent.	•	61 percent–80 percent.
+•	≥81 percent of expected visits.

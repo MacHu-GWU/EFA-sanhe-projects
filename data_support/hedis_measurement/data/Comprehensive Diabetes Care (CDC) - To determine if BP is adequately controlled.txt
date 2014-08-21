@@ -1,0 +1,9 @@
+﻿Step 1
+Identify the most recent BP reading noted during the measurement year. Do not include BP readings that meet the following criteria:
+•	Taken during an acute inpatient stay or an ED visit.
+•	Taken during an outpatient visit which was for the sole purpose of having a diagnostic test or surgical procedure performed (e.g., sigmoidoscopy, removal of a mole).
+•	Obtained the same day as a major diagnostic or surgical procedure (e.g., stress test, administration of IV contrast for a radiology procedure, endoscopy).
+•	Reported by or taken by the member.
+Step 2
+Identify the lowest systolic and lowest diastolic BP reading from the most recent BP notation in the medical record. If there are multiple BPs recorded for a single date, use the lowest systolic and lowest diastolic BP on that date as the representative BP. The systolic and diastolic results do not need to be from the same reading when multiple readings are recorded for a single date.
+The member is not numerator compliant if the BP does not meet the specified threshold or is missing, or if there is no BP reading during the measurement year or if the reading is incomplete (i.e., the systolic or diastolic level is missing).

@@ -1,0 +1,21 @@
+﻿Step 1
+Identify members with schizophrenia as those who met at least one of the following criteria during the measurement year:
+•	At least one acute inpatient encounter with any diagnosis of schizophrenia. Either of the following code combinations meets criteria:
+–	BH Stand Alone Acute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Acute Inpatient Value Set with BH Acute Inpatient POS Value Set and Schizophrenia Value Set.
+•	At least two visits in an outpatient, intensive outpatient, partial hospitalization, ED or nonacute inpatient setting, on different dates of service, with any diagnosis of schizophrenia. Any two of the following code combinations meet criteria:
+–	BH Stand Alone Outpatient/PH/IOP Value Set with Schizophrenia Value Set.
+–	BH Outpatient/PH/IOP Value Set with BH Outpatient/PH/IOP POS Value Set and Schizophrenia Value Set.
+–	ED Value Set with Schizophrenia Value Set.
+–	BH ED Value Set with BH ED POS Value Set and Schizophrenia Value Set.
+–	BH Stand Alone Nonacute Inpatient Value Set with Schizophrenia Value Set.
+–	BH Nonacute Inpatient Value Set with BH Nonacute Inpatient POS Value Set and Schizophrenia Value Set.
+Step 2
+Identify members from step 1 who also have cardiovascular disease. Members are identified as having cardiovascular disease in two ways: by event or by diagnosis. The organization must use both methods to identify the eligible population, but a member need only be identified by one to be included in the measure.
+Event. Any of the following during the year prior to the measurement year meet criteria:
+•	AMI. Discharged from an inpatient setting with an AMI (AMI Value Set). Use both facility and professional claims to identify AMI.
+•	CABG. Discharged from an inpatient setting with a CABG (CABG Value Set). Use both facility and professional claims to identify CABG.
+•	PCI. Members who had PCI (PCI Value Set) in any setting (e.g., inpatient, outpatient, ED).
+Diagnosis. Identify members with IVD as those who met at least either of the following criteria during both the measurement year and the year prior to the measurement year. Criteria need not be the same across both years.
+•	At least one outpatient visit (Outpatient Value Set) with a diagnosis of IVD (IVD Value Set).
+•	At least one acute inpatient encounter (Acute Inpatient Value Set) with a diagnosis of IVD (IVD Value Set).

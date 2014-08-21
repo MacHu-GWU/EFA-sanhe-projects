@@ -1,0 +1,12 @@
+﻿Step 1
+Identify the IPSD. The IPSD is the earliest dispensing event for any antipsychotic medication (Table SAA-A; Long-Acting Injections 14 Days Supply Value Set; Long-Acting Injections 28 Days Supply Value Set) during the measurement year.
+Step 2
+To determine the treatment period, calculate the number of days from the IPSD (inclusive) to the end of the measurement year.
+Step 3
+Count the days covered by at least one antipsychotic medications (Table SAA-A; Long-Acting Injections 14 Days Supply Value Set; Long-Acting Injections 28 Days Supply Value Set) during the treatment period. To ensure that days supply that extend beyond the measurement year are not counted, subtract any days supply that extends beyond December 31 of the measurement year.
+Step 4
+Calculate the member’s PDC using the following equation. Round to two decimal places, using the .5 rule.
+	Total Days Covered by an Antipsychotic Medication in the Treatment Period (step 3)
+	Total Days in Treatment Period (step 2)
+Step 5
+Sum the number of members whose PDC is ≥80% for their treatment period.

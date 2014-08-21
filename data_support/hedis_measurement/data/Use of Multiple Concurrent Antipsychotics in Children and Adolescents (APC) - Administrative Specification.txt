@@ -1,0 +1,9 @@
+﻿Step 1
+For each member, by Drug ID, identify all drug events, start dates and end dates (identified in step 4 of the event/diagnosis criteria used to identify the eligible population [denominator]).
+Step 2
+Identify concurrent antipsychotic medication treatment events as follows. 
+For each member, identify the first day during the measurement year where the member was being treated with two or more different antipsychotic medications (use the Drug ID to identify different drugs); this is the concurrent antipsychotic medication treatment event start date. 
+Beginning with (and including) the start date, identify the number of consecutive days where the member remains on two or more different antipsychotic medications. If the number of days ≥90 days, the member is numerator compliant.
+If the number of consecutive days on multiple antipsychotic medications is <90 days, identify the end date and identify the next day during the measurement year where the member was being treated with two or more different antipsychotic medications. If the number of days between the end date and the next start date is ≤15 days, include the days in the concurrent antipsychotic medication treatment event (concurrent antipsychotic medication treatment events allow for a 15-day gap).
+If the number of days between the end date and the next start date exceeds 15 days, end the event; using the new start date, continue to assess for concurrent antipsychotic medication treatment events.
+Continue this process until the number of concurrent antipsychotic medication treatment days is ≥90 consecutive days (i.e., the member is numerator compliant) or until the measurement year is exhausted (i.e., no concurrent antipsychotic medication treatment events were identified during the measurement year).

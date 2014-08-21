@@ -1,0 +1,8 @@
+﻿Step 1
+Identify all E&M services that occurred during the treatment period. The valid E&M codes used to select these services are listed in Table SPT-EM.
+Step 2
+Match each E&M service to the CPT codes in Table SPT-EM and assign the standard price to the E&M service. 
+Step 3
+Multiply the standard price by the number of units associated with the E&M service. Most services have one unit. 
+Step 4
+Sum the standard prices across the E&M services to calculate the total cost. Include all units of service on a claim line. Sum E&M services labeled as inpatient separate from those labeled as outpatient services.

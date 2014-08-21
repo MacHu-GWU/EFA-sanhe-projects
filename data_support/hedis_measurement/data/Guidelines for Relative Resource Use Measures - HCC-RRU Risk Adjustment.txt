@@ -1,0 +1,48 @@
+﻿Step 1
+Identify the qualified service diagnosis.
+Use the following value sets and identify all diagnoses for encounters during the treatment period based on the date of service for outpatient or ED services or on the discharge date for inpatient stays.
+•	Outpatient (Outpatient Value Set).
+•	Observation (Observation Value Set).
+•	Acute inpatient (Acute Inpatient Value Set).
+•	Nonacute inpatient (Nonacute Inpatient Value Set).
+•	ED (ED Value Set).
+•	Surgery and procedure services. Services with a CPT Procedure code in Table 
+HCC—Surg.
+Use all diagnosis codes for all services that meet the criteria listed above to complete the steps below.
+Step 2
+Assign each diagnosis code to one CC category (CC) using Table CC—Comorbid. 
+Exclude all diagnoses that cannot be assigned to a CC category. For members with no qualifying diagnoses from face-to-face encounters, skip to step 6.
+All digits must match exactly when mapping diagnosis codes to the CCs.
+Step 3
+Determine HCCs for each CC identified. Refer to Table HCC—Rank.
+For a member’s CC list, match the CC code to the CC code in the table, and assign:
+•	The ranking group.
+•	The rank.
+•	The HCC.
+For CCs that do not match to Table HCC—Rank, use the CC as the HCC and assign a rank 
+of 1.
+Note: One CC can map to multiple HCCs; each HCC can have one or more CCs.
+Step 4
+Select only the highest-ranked HCC in each ranking group using the Rank column (1 is the highest possible rank). 
+Drop all other HCCs in each ranking group and de-duplicate the HCC list if necessary.
+Note: Refer to the Plan All-Cause Readmissions (PCR) measure for a Comorbid CC calculation example.
+Step 5
+Identify combination HCCs listed in Table HCC—Comb.
+Some combinations suggest a greater amount of risk when observed together. For example, when diabetes and CHF are present, an increased amount of risk is evident. Additional HCCs are selected to account for these relationships. 
+Compare each member’s list of unique HCCs to those in the HCC column in Table HCC—Comb and assign any additional HCC conditions.
+For fully nested combinations (e.g., the diabetes/CHF combination is nested in the diabetes/ CHF/renal combination), use only the more comprehensive pattern. In this example, only the diabetes/CHF/renal combination is counted.
+For overlapping combinations (e.g., the CHF, COPD combination overlaps the CHR/renal/ diabetes combination), use both sets of combinations. In this example, both CHF/COPD and CHF/renal/diabetes combinations are counted.
+Based on the combinations, a member can have none, one or more of these additional HCCs.
+Note: Refer to the PCR measure for a combination HCC calculation example.
+Step 6
+Identify demographic HCCs for RRU.
+Categorize members by age and gender using the age ranges described in Table RRU—Age/ Gender—HCC. Assign a demographic HCC based on gender and the member’s age on the last day of the treatment period. 
+At the end of step 6, each member will have a final list of HCCs that includes at least one demographic HCC and none, one or more HCCs based on steps 1–5. 
+Note: Each RRU measure has its own demographic criteria.
+Step 7
+Calculate the weight for all the HCCs on each member’s list using Table RRU—Weight. Each HCC for RRU carries a predefined risk weight. 
+Step 8
+Sum each member’s risk weights based on the final list of HCCs. A member’s risk score is the sum of the risk weights for all HCCs on that member’s list. Sum the weights based on the member’s HCC lists. Round the final risk score to four decimal places. 
+Step 9
+Use the table below to assign the member to a risk group based on risk score.
+For example, a member with a total HCC risk score of 1.2300 is assigned to Risk Group 5. Report all member months and cost information for this member in this risk group, within the appropriate age and gender stratifications. 
