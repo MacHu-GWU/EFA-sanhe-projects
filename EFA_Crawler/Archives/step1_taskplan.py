@@ -19,7 +19,7 @@ def querystring_generator():
     qs = QueryString()
     country, state, recordtype, pagesize, pagenumber = 'US', '', '2', '10', '1' # deathrecord
     for lastname in lastnamelist:
-        for year in [str(i) for i in range(2011, 2014)][::-1]: # 从2013 - 1900 逆序输出
+        for year in [str(i) for i in range(1990, 2014)][::-1]: # 从2013 - 1900 逆序输出
             activityID = random.choice(activityIDlist)
             yield qs.string(lastname = lastname,
                             country = country,
@@ -58,7 +58,7 @@ def main():
         c = itertools.cycle(xrange(20)) #
         for queryurl, lastname, year in querystring_generator():
     
-            if task[lastname][year] == -1: # 如果没有规划过(task[lastname][year] == -1)，访问queryurl
+            if year not in task[lastname]: # 如果没有规划过(task[lastname][year] == -1)，访问queryurl
                 html = spider.html(queryurl, 10)
                 amount = find_amount_of_record_by_html(html)
                 
@@ -66,7 +66,7 @@ def main():
                     print '\tquery失败, url = %s' % queryurl
                     
                 else:
-                    task[lastname][year] = amount
+                    task[lastname].setdefault(year, amount)
                     task._dump(r'taskplan\todo.p', replace = True)
                     print '\t\t被更新为: %s in %s = %s' % (lastname, year, task[lastname][year])
                     

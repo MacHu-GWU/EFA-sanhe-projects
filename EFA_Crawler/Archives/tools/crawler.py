@@ -152,7 +152,7 @@ class SparseInterval(object):
 class ToDo(object):
     def __init__(self):
         from _ref_data import lastnamelist
-        self.data = {lastname: {str(i) : -1 for i in range(1900, 2021)} for lastname in lastnamelist}
+        self.data = {lastname: dict() for lastname in lastnamelist}
     
     def __getitem__(self, key):
         return self.data[key]
@@ -178,7 +178,7 @@ class ToDo(object):
 class Finished(object):
     def __init__(self):
         from _ref_data import lastnamelist
-        self.data = {lastname: {str(i) : -1 for i in range(1900, 2021)} for lastname in lastnamelist}
+        self.data = {lastname: dict() for lastname in lastnamelist}
     
     def __getitem__(self, key):
         return self.data[key]
