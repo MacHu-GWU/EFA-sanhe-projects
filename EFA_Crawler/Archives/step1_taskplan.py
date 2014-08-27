@@ -44,8 +44,8 @@ def find_amount_of_record_by_html(html):
 def backup():
     '''备份todo.p
     '''
-    shutil.copy(r'taskplan\todo.p', 
-                r'C:\Users\Sanhe.Hu\Data_warehouse\Archives\backup\taskplan\todo_%s.p' % datetime.strftime( datetime.now(),
+    shutil.copy(r'C:\Users\Sanhe.Hu\Data_warehouse\Archives\todo.p', 
+                r'C:\Users\Sanhe.Hu\Data_warehouse\Archives\backup\todo\todo_%s.p' % datetime.strftime( datetime.now(),
                                                                                                             '%Yy-%mm-%dd %Hh_%Mm_%Ss' ) )
 def main():
     spider = Crawler()
@@ -53,7 +53,7 @@ def main():
                      payload = {'__uid':'sanhe.hu@theeagleforce.net','__pwd':'efa2014'}):
 
         task = ToDo()
-        task._load(r'taskplan\todo.p') # 可用来查找r'taskplan\tp_%s.p' % datetime.strftime(datetime.now(), '%Yy-%mm-%dd %Hh_%Mm_%Ss')
+        task._load(r'C:\Users\Sanhe.Hu\Data_warehouse\Archives\todo.p') # 可用来查找r'taskplan\tp_%s.p' % datetime.strftime(datetime.now(), '%Yy-%mm-%dd %Hh_%Mm_%Ss')
         
         c = itertools.cycle(xrange(20)) #
         for queryurl, lastname, year in querystring_generator():
@@ -67,7 +67,7 @@ def main():
                     
                 else:
                     task[lastname].setdefault(year, amount)
-                    task._dump(r'taskplan\todo.p', replace = True)
+                    task._dump(r'C:\Users\Sanhe.Hu\Data_warehouse\Archives\todo.p', replace = True)
                     print '\t\t被更新为: %s in %s = %s' % (lastname, year, task[lastname][year])
                     
                     if c.next() == 19: # backup every time visit n url

@@ -125,19 +125,18 @@ class SparseInterval(object):
             c, d = y, yi-1
         
         ## 去除重复的连续值
-        array = list()
-        i, j = -9999,-9999 # 设置一个不可能出现在self.array中的初始值
+        array = [-9999]
+#         print self.array[:a] + [b, c] + self.array[d:]
         for n in self.array[:a] + [b, c] + self.array[d:]:
-            i, j = j, n # example: array = [1, 2, 2, 3]
-            if i != j: # 例如是 -9999 != 1 或者是 1 != 2
-                array.append(j)
-            else: # 例如是 2 == 2
-                array.pop() # 删除之前append的2
-                j = -9999 # 下一次就会变成 -9999, 3 了
-                
+            if n -1 <= array[-1]:
+                array.append(n)
+                array.pop()
+                array.pop()
+            else:
+                array.append(n)
         ## 输出
         spsI = SparseInterval(0,1)
-        spsI.array = array
+        spsI.array = array[1:]
         return spsI
     
     def __contains__(self, interval):
@@ -151,6 +150,11 @@ class SparseInterval(object):
 
 class ToDo(object):
     def __init__(self):
+        ''' self.data = {lastname1: {year1: number_of_result,
+                                     year2: number_of_result, ...},
+                         lastname2: {year1: number_of_result,
+                                     year2: number_of_result, ...}, ...}
+        '''
         from _ref_data import lastnamelist
         self.data = {lastname: dict() for lastname in lastnamelist}
     
@@ -169,14 +173,30 @@ class ToDo(object):
                 pickle.dump(self, open(path, 'wb'))
     
     def _load(self, path):
+        '''load task data from local file
+        '''
         if os.path.exists(path): # exists, then load
             todo = pickle.load(open(path, 'rb'))
             self.data = todo.data
         else:
             print '%s not exists! cannot load!' % path
+        
+    def _info(self):
+        if 'amount' not in dir(self):
+            self.amount = 0
+            for value in self.data.itervalues():
+                for number in value.itervalues():
+                    self.amount += number
+        print self.amount
             
+        
 class Finished(object):
     def __init__(self):
+        ''' self.data = {lastname1: {year1: SparseInterval(),
+                                     year2: SparseInterval(), ...},
+                         lastname2: {year1: SparseInterval(),
+                                     year2: SparseInterval(), ...}, ...}
+        '''
         from _ref_data import lastnamelist
         self.data = {lastname: dict() for lastname in lastnamelist}
     
@@ -227,13 +247,16 @@ def test_QueryString():
 
 def test_SparseInterval():
     print '\n====== Unit Test - SparseInterval ======'
-    sps1 = SparseInterval(1,2)
-    sps1 = sps1 + SparseInterval(3,4)
-    sps1 = sps1 + SparseInterval(5,6)
-    print 'sps1 = %s' % sps1
-    sps2 = SparseInterval(3, 3.3) # <== 自己修改测试值
-    print '%s + %s = %s' % (sps1, sps2, sps1 + sps2) 
-    print '%s is in %s ? = %s' % (sps2, sps1, sps2 in sps1)
+    sps1 = SparseInterval(1,10)
+    sps1 += SparseInterval(11,20)
+    print sps1
+#     sps1 += SparseInterval(4,8)
+#     print sps1
+#     sps1 += SparseInterval(9,9)
+#     print sps1
+#     sps2 = SparseInterval(3, 3.3) # <== 自己修改测试值
+#     print '%s + %s = %s' % (sps1, sps2, sps1 + sps2) 
+#     print '%s is in %s ? = %s' % (sps2, sps1, sps2 in sps1)
 
 def test_ToDo():
     task = ToDo()
@@ -241,12 +264,18 @@ def test_ToDo():
     
 def test_Finished():
     history = Finished()
-    print history.data
+#     print history.data
+    history['Smith'].setdefault('2013', SparseInterval(0, 0))
+    print history['Smith']['2013'] 
+    history['Smith']['2013'] += SparseInterval(2, 3)
+    history['Smith']['2013'] += SparseInterval(1.5, 4) 
+    print history['Smith']['2013']
+    
     
 if __name__ == '__main__':
 #     test_Crawler()
 #     test_QueryString()
-#     test_SparseInterval()
+    test_SparseInterval()
 #     test_ToDo()
-    test_Finished()
+#     test_Finished()
     

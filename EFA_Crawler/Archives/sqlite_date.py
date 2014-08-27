@@ -17,7 +17,7 @@ c.execute("SELECT * FROM test WHERE d >= ? AND d <= ?", ( datetime.date(2010,01,
 prt_all(c)
 
 
-# con = sqlite3.connect("database.db", detect_types=sqlite3.PARSE_DECLTYPES|sqlite3.PARSE_COLNAMES)
+# con = sqlite3.connect("database.db", detect_types=sqlite3 .PARSE_DECLTYPES|sqlite3.PARSE_COLNAMES)
 # c = con.cursor()
 
 # c.execute("create table test(id Integer,d date)")
