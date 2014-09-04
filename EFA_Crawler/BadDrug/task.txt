@@ -1,0 +1,4562 @@
+{
+    "http://www.bad-drug.net/bad-drug/abilify": {
+        "info": [
+            "Abilify",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/abobotulinumtoxina": {
+        "info": [
+            "AbobotulinumtoxinA",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/abraxane": {
+        "info": [
+            "Abraxane",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/abstral": {
+        "info": [
+            "Abstral",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/accupril": {
+        "info": [
+            "Accupril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/accutane-isotretinoin": {
+        "info": [
+            "Accutane",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/acetaminophen": {
+        "info": [
+            "Acetaminophen",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aciphex": {
+        "info": [
+            "Aciphex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/acolate": {
+        "info": [
+            "Accolate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/actimmune": {
+        "info": [
+            "Actimmune",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/actiq": {
+        "info": [
+            "Actiq",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/actonel": {
+        "info": [
+            "Actonel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/actoplus-met": {
+        "info": [
+            "Actoplus MET",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/actos": {
+        "info": [
+            "Actos",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/acyclovir": {
+        "info": [
+            "Acyclovir",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/adalat": {
+        "info": [
+            "Adalat",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aderall": {
+        "info": [
+            "Adderall",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/adoxa": {
+        "info": [
+            "Adoxa",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/advair-diskus": {
+        "info": [
+            "Advair Diskus",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/advil": {
+        "info": [
+            "Advil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/afinitor": {
+        "info": [
+            "Afinitor",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aggrenox": {
+        "info": [
+            "Aggrenox",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/akineton": {
+        "info": [
+            "Akineton",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aldactone": {
+        "info": [
+            "Aldactone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aldara": {
+        "info": [
+            "Aldara",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/alimta": {
+        "info": [
+            "Alimta",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aliskiren": {
+        "info": [
+            "Aliskiren",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/allegra": {
+        "info": [
+            "Allegra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/alli": {
+        "info": [
+            "Alli",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/alora": {
+        "info": [
+            "Alora",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aloxi": {
+        "info": [
+            "Aloxi",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/alphagan-p": {
+        "info": [
+            "Alphagan P",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/alprazolam": {
+        "info": [
+            "Alprazolam",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/altace": {
+        "info": [
+            "Altace",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amaryl": {
+        "info": [
+            "Amaryl",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ambien-cr": {
+        "info": [
+            "Ambien CR",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/americaine": {
+        "info": [
+            "Americaine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amiodarone": {
+        "info": [
+            "Amiodarone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amitiza": {
+        "info": [
+            "Amitiza",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amitriptyline": {
+        "info": [
+            "Amitriptyline",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amnesteem": {
+        "info": [
+            "Amnesteem",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amoxicillin": {
+        "info": [
+            "Amoxicillin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ampyra": {
+        "info": [
+            "Ampyra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/amyvid": {
+        "info": [
+            "Amyvid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/anafranil": {
+        "info": [
+            "Anafranil",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/androgel-1": {
+        "info": [
+            "AndroGel 1%",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/angiomax": {
+        "info": [
+            "Angiomax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/antivert": {
+        "info": [
+            "Antivert",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/apri": {
+        "info": [
+            "Apri",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aranesp": {
+        "info": [
+            "Aranesp",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/arava": {
+        "info": [
+            "Arava",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aredia": {
+        "info": [
+            "Aredia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aricept": {
+        "info": [
+            "Aricept",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/arimidex": {
+        "info": [
+            "Arimidex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/arixtra-2": {
+        "info": [
+            "Arixtra",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/armour": {
+        "info": [
+            "Armour",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/arthrotec": {
+        "info": [
+            "Arthrotec",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/asacol": {
+        "info": [
+            "Asacol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/asmanex": {
+        "info": [
+            "Asmanex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aspirin": {
+        "info": [
+            "Aspirin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/astelin": {
+        "info": [
+            "Astelin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/atacand": {
+        "info": [
+            "Atacand",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/atarax": {
+        "info": [
+            "Atarax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/atenolol": {
+        "info": [
+            "Atenolol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ativan": {
+        "info": [
+            "Ativan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/atripla": {
+        "info": [
+            "Atripla",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/augmentin": {
+        "info": [
+            "Augmentin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/auvi-q": {
+        "info": [
+            "Auvi-Q",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avalide": {
+        "info": [
+            "Avalide",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avandamet": {
+        "info": [
+            "Avandamet",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avandia-rosiglitazone": {
+        "info": [
+            "Avandia (Rosiglitazone)",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avapro": {
+        "info": [
+            "Avapro",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avastin": {
+        "info": [
+            "Avastin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avelox": {
+        "info": [
+            "Avelox",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/aviane": {
+        "info": [
+            "Aviane",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avinza": {
+        "info": [
+            "Avinza",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avodart": {
+        "info": [
+            "Avodart",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/avonex": {
+        "info": [
+            "Avonex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/azilect": {
+        "info": [
+            "Azilect",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/baclofen": {
+        "info": [
+            "Baclofen",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bactrim": {
+        "info": [
+            "Bactrim",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bactroban": {
+        "info": [
+            "Bactroban",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/benazepril": {
+        "info": [
+            "Benazepril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/benicar": {
+        "info": [
+            "Benicar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/benicar-hct": {
+        "info": [
+            "Benicar HCT",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/benzaclin": {
+        "info": [
+            "Benzaclin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/benzonatate": {
+        "info": [
+            "Benzonatate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/betaseron": {
+        "info": [
+            "Betaseron",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bextra": {
+        "info": [
+            "Bextra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/biaxin": {
+        "info": [
+            "Biaxin",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bidil": {
+        "info": [
+            "BiDil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bio-t-gel": {
+        "info": [
+            "Bio-T-Gel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/boniva": {
+        "info": [
+            "Boniva",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/botox": {
+        "info": [
+            "Botox",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/brilinta": {
+        "info": [
+            "Brilinta",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/brilliant-blue-g": {
+        "info": [
+            "Brilliant Blue G",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bromday": {
+        "info": [
+            "Bromday",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/brovana": {
+        "info": [
+            "Brovana",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/budeprion-xl": {
+        "info": [
+            "Budeprion XL",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/budesonide": {
+        "info": [
+            "Budesonide",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bulgarian-tribulus": {
+        "info": [
+            "Bulgarian Tribulus",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bupropion": {
+        "info": [
+            "Bupropion",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/buspar": {
+        "info": [
+            "Buspar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/buspirone": {
+        "info": [
+            "Buspirone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/butisol-sodium": {
+        "info": [
+            "Butisol Sodium",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/butrans-buprenorphine-transdermal-system": {
+        "info": [
+            "Butrans Transdermal System",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/bydureon": {
+        "info": [
+            "Bydureon",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/byetta": {
+        "info": [
+            "Byetta",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/caduet": {
+        "info": [
+            "Caduet",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/calan": {
+        "info": [
+            "Calan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/campath": {
+        "info": [
+            "Campath",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/candesartan": {
+        "info": [
+            "Candesartan",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/capoten": {
+        "info": [
+            "Capoten",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/carbamazepine": {
+        "info": [
+            "Carbamazepine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cardiogen-82": {
+        "info": [
+            "CardioGen-82",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cardizem": {
+        "info": [
+            "Cardizem",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/carisoprodol": {
+        "info": [
+            "Carisoprodol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cartia-xt": {
+        "info": [
+            "Cartia XT",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/casodex": {
+        "info": [
+            "Casodex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/catapres": {
+        "info": [
+            "Catapres",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/caverject": {
+        "info": [
+            "Caverject",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cefepime": {
+        "info": [
+            "Cefepime",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ceftriaxone": {
+        "info": [
+            "Ceftriaxone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cefzil": {
+        "info": [
+            "Cefzil",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/celebrex": {
+        "info": [
+            "Celebrex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/celexa-citalopram": {
+        "info": [
+            "Celexa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cellcept": {
+        "info": [
+            "CellCept",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cenestin": {
+        "info": [
+            "Cenestin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cepacol": {
+        "info": [
+            "Cepacol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cephalexin": {
+        "info": [
+            "Cephalexin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cephalexin-2": {
+        "info": [
+            "Cephalexin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cerezyme": {
+        "info": [
+            "Cerezyme",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cervarix": {
+        "info": [
+            "Cervarix",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cetuximab": {
+        "info": [
+            "Cetuximab",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/chantix": {
+        "info": [
+            "Chantix",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/chloroprocaine": {
+        "info": [
+            "Chloroprocaine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/chlorpheniramine": {
+        "info": [
+            "Chlorpheniramine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/chlorpromazine-2": {
+        "info": [
+            "Chlorpromazine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/chlorpromazine-hydrochloride": {
+        "info": [
+            "Chlorpromazine Hydrochloride",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cialis": {
+        "info": [
+            "Cialis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ciloxan": {
+        "info": [
+            "Ciloxan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cimzia": {
+        "info": [
+            "Certolizumab pegol",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ciprodex-otic": {
+        "info": [
+            "Ciprodex Otic",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ciprofloxacin": {
+        "info": [
+            "Ciprofloxacin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/claravis": {
+        "info": [
+            "Claravis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clarinex": {
+        "info": [
+            "Clarinex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clarithromycin": {
+        "info": [
+            "Clarithromycin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/claritin": {
+        "info": [
+            "Claritin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cleocin": {
+        "info": [
+            "Cleocin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/climara": {
+        "info": [
+            "Climara",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clindamycin": {
+        "info": [
+            "Clindamycin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clobetasol": {
+        "info": [
+            "Clobetasol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clobex": {
+        "info": [
+            "Clobex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clomid": {
+        "info": [
+            "Clomid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clonidine": {
+        "info": [
+            "Clonidine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clopidogrel-bisulfate": {
+        "info": [
+            "Clopidogrel Bisulfate",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/clozapine": {
+        "info": [
+            "Clozapine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/codeine": {
+        "info": [
+            "Codeine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/colace": {
+        "info": [
+            "Colace",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/colchicine": {
+        "info": [
+            "Colchicine",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/colistimethate": {
+        "info": [
+            "Colistimethate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/combivent-2": {
+        "info": [
+            "Combivent",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/combivir": {
+        "info": [
+            "Combivir",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/compazine": {
+        "info": [
+            "Compazine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/concerta": {
+        "info": [
+            "Concerta",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/copaxone": {
+        "info": [
+            "Copaxone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cordarone": {
+        "info": [
+            "Cordarone",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/coreg-cr": {
+        "info": [
+            "Coreg CR",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cosopt": {
+        "info": [
+            "Cosopt",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cotrim": {
+        "info": [
+            "Cotrim",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/coumadin": {
+        "info": [
+            "Coumadin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cozaar": {
+        "info": [
+            "Cozaar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/creon": {
+        "info": [
+            "Creon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/crestor": {
+        "info": [
+            "Crestor",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cubicin": {
+        "info": [
+            "Cubicin",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cyclessa": {
+        "info": [
+            "Cyclessa",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cyclobenzaprine": {
+        "info": [
+            "Cyclobenzaprine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cyclosporine": {
+        "info": [
+            "Cyclosporine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/cymbalta": {
+        "info": [
+            "Cymbalta",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/daliresp": {
+        "info": [
+            "Daliresp",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dalmane": {
+        "info": [
+            "Dalmane",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/darbepoetin-alpha": {
+        "info": [
+            "Darbepoetin Alpha",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/darunavir": {
+        "info": [
+            "Darunavir",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/darvocet": {
+        "info": [
+            "Darvocet",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/darvon": {
+        "info": [
+            "Darvon",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dasatinib": {
+        "info": [
+            "Dasatinib",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/daytrana": {
+        "info": [
+            "Daytrana",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ddavp": {
+        "info": [
+            "DDAVP",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/deferasirox": {
+        "info": [
+            "Deferasirox",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/definity": {
+        "info": [
+            "Definity",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/delsym": {
+        "info": [
+            "Delsym",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/depacon": {
+        "info": [
+            "Depacon",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/depakote": {
+        "info": [
+            "Depakote",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/depo-provera": {
+        "info": [
+            "Depo-Provera",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/desmopressin": {
+        "info": [
+            "Desmopressin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/desogen": {
+        "info": [
+            "Desogen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/desoxyn": {
+        "info": [
+            "Desoxyn",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/desyrel": {
+        "info": [
+            "Desyrel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/detrol-la": {
+        "info": [
+            "Detrol LA",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dexedrine": {
+        "info": [
+            "Dexedrine",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dexilant": {
+        "info": [
+            "Dexilant",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dexlansoprazole": {
+        "info": [
+            "Dexlansoprazole",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dexmethylphenidate": {
+        "info": [
+            "Dexmethylphenidate",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dextroamphetamine": {
+        "info": [
+            "Dextroamphetamine",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diazepam": {
+        "info": [
+            "Diazepam",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diazepam-rectal-gel": {
+        "info": [
+            "Diazepam Rectal Gel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diclofenac": {
+        "info": [
+            "Diclofenac",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/didanosine": {
+        "info": [
+            "Didanosine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/differin": {
+        "info": [
+            "Differin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diflucan": {
+        "info": [
+            "Diflucan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dilantin-er": {
+        "info": [
+            "Dilantin ER",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dilaudid": {
+        "info": [
+            "Dilaudid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diltiazem": {
+        "info": [
+            "Diltiazem",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diovan": {
+        "info": [
+            "Diovan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diovan-hct": {
+        "info": [
+            "Diovan HCT",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/diprivan": {
+        "info": [
+            "Diprivan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ditropan": {
+        "info": [
+            "Ditropan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ditropan-2": {
+        "info": [
+            "Ditropan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/divalproex-sodium": {
+        "info": [
+            "Divalproex sodium",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dolasetron-mesylate": {
+        "info": [
+            "Dolasetron mesylate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/doral": {
+        "info": [
+            "Doral",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/doribax": {
+        "info": [
+            "Doribax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/doryx": {
+        "info": [
+            "Doryx",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dostinex": {
+        "info": [
+            "Dostinex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dovonex": {
+        "info": [
+            "Dovonex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/drospirenone": {
+        "info": [
+            "Drospirenone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/drug-coated-stents": {
+        "info": [
+            "Drug-Coated Stents",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duac-care-system": {
+        "info": [
+            "Duac Care System",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duetact": {
+        "info": [
+            "Duetact",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dulcolax": {
+        "info": [
+            "Dulcolax",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duloxetine": {
+        "info": [
+            "Duloxetine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duoneb": {
+        "info": [
+            "DuoNeb",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duraclon": {
+        "info": [
+            "Duraclon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duract": {
+        "info": [
+            "Duract",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/duragesic": {
+        "info": [
+            "Duragesic",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dyazide": {
+        "info": [
+            "Dyazide",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dymista": {
+        "info": [
+            "Dymista",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/dyrenium": {
+        "info": [
+            "Dyrenium",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/edarbi": {
+        "info": [
+            "Edarbi",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/edecrin": {
+        "info": [
+            "Edecrin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/edetate-disodium": {
+        "info": [
+            "Edetate Disodium",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/effexor": {
+        "info": [
+            "Effexor",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/elavil": {
+        "info": [
+            "Elavil",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/elelyso": {
+        "info": [
+            "Elelyso",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/elestrin": {
+        "info": [
+            "Elestrin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/elidel": {
+        "info": [
+            "Elidel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/elmiron": {
+        "info": [
+            "Elmiron",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/eloxatin": {
+        "info": [
+            "Eloxatin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/eltrombopag": {
+        "info": [
+            "Eltrombopag",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/enablex": {
+        "info": [
+            "Enablex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/enalapril": {
+        "info": [
+            "Enalapril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/enbrel": {
+        "info": [
+            "Enbrel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/endep": {
+        "info": [
+            "Endep",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/enjuvia": {
+        "info": [
+            "Enjuvia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/entocort-ec": {
+        "info": [
+            "Entocort EC",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ephedra": {
+        "info": [
+            "Ephedra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/epilim": {
+        "info": [
+            "Epilim",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/epipen": {
+        "info": [
+            "Epipen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/epivir": {
+        "info": [
+            "Epivir",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/epogen": {
+        "info": [
+            "Epogen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/eprex": {
+        "info": [
+            "Eprex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/epzicom": {
+        "info": [
+            "Epzicom",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/erbitux": {
+        "info": [
+            "Erbitux",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/erivedge": {
+        "info": [
+            "Erivedge",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/errin": {
+        "info": [
+            "Errin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/erythromycin": {
+        "info": [
+            "Erythromycin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/esidrix": {
+        "info": [
+            "Esidrix",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/estazolam": {
+        "info": [
+            "Estazolam",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/estrace": {
+        "info": [
+            "Estrace",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/estrasorb": {
+        "info": [
+            "Estrasorb",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/estring": {
+        "info": [
+            "Estring",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/estrostep-fe": {
+        "info": [
+            "Estrostep Fe",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/eszopiclone": {
+        "info": [
+            "Eszopiclone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/etanercept": {
+        "info": [
+            "Etanercept",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ethchlorvynol": {
+        "info": [
+            "Ethchlorvynol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/etidronate": {
+        "info": [
+            "Etidronate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/evamist": {
+        "info": [
+            "Evamist",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/evista": {
+        "info": [
+            "Evista",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/excedrin": {
+        "info": [
+            "Excedrin",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/exelon": {
+        "info": [
+            "Exelon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/exforge": {
+        "info": [
+            "Exforge",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/exforge-2": {
+        "info": [
+            "Exforge",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ezetimibe": {
+        "info": [
+            "Ezetimibe",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fabior": {
+        "info": [
+            "Fabior",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/famvir": {
+        "info": [
+            "Famvir",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/felbatol": {
+        "info": [
+            "Felbatol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/feldene": {
+        "info": [
+            "Feldene",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/femara": {
+        "info": [
+            "Femara",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fen-phen": {
+        "info": [
+            "Fen-Phen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fentanyl": {
+        "info": [
+            "Fentanyl",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fentora": {
+        "info": [
+            "Fentora",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ferrous-sulfate": {
+        "info": [
+            "Ferrous Sulfate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fioricet": {
+        "info": [
+            "Fioricet",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fioricet-2": {
+        "info": [
+            "Fioricet",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/firazyr": {
+        "info": [
+            "Firazyr",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/flagyl": {
+        "info": [
+            "Flagyl",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/flector": {
+        "info": [
+            "Flector",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fleet-accu-prep": {
+        "info": [
+            "Fleet Accu-Prep",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/flexeril": {
+        "info": [
+            "Flexeril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/flomax-tamsulosin": {
+        "info": [
+            "Flomax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/flovent-hfa": {
+        "info": [
+            "Flovent HFA",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/floxin": {
+        "info": [
+            "Floxin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fluphenazine": {
+        "info": [
+            "Fluphenazine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fluvoxamine": {
+        "info": [
+            "Fluvoxamine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/focalin": {
+        "info": [
+            "Focalin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/foradil": {
+        "info": [
+            "Foradil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/forfivo-xl": {
+        "info": [
+            "Forfivo XL",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/forteo": {
+        "info": [
+            "Forteo",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fosamax": {
+        "info": [
+            "Fosamax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fosinopril": {
+        "info": [
+            "Fosinopril",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fosphenytoin": {
+        "info": [
+            "Fosphenytoin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/frova": {
+        "info": [
+            "Frova",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/furosemide": {
+        "info": [
+            "Furosemide",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fuzeon": {
+        "info": [
+            "Fuzeon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/fuzeon-2": {
+        "info": [
+            "Fuzeon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gabapentin-3": {
+        "info": [
+            "Gabapentin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gabitril": {
+        "info": [
+            "Gabitril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gadiodiamide": {
+        "info": [
+            "Gadiodiamide",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gadopentetate-dimeglumine": {
+        "info": [
+            "Gadopentetate Dimeglumine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gadoteridol": {
+        "info": [
+            "Gadoteridol",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gammagard-liquid": {
+        "info": [
+            "Gammagard liquid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gamunex": {
+        "info": [
+            "Gamunex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gardasil": {
+        "info": [
+            "Gardasil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gasoversetamide": {
+        "info": [
+            "Gadoversetamide",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gaviscon": {
+        "info": [
+            "Gaviscon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gemifloxacin": {
+        "info": [
+            "Gemifloxacin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gemzar": {
+        "info": [
+            "Gemzar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/geodonziprasidone": {
+        "info": [
+            "Geodon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gilenya": {
+        "info": [
+            "Gilenya",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gleevec": {
+        "info": [
+            "Gleevec",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/glocovance": {
+        "info": [
+            "Glocovance",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/glucophage-xr": {
+        "info": [
+            "Glucophage XR",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/glucotrol": {
+        "info": [
+            "Glucotrol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/glycolax": {
+        "info": [
+            "Glycolax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/golimumab": {
+        "info": [
+            "Golimumab",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/gonal-f": {
+        "info": [
+            "Gonal-F",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/goserelin-acetate": {
+        "info": [
+            "Goserelin Acetate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/granuflo": {
+        "info": [
+            "Granuflo",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/halaven": {
+        "info": [
+            "Halaven",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/halcion": {
+        "info": [
+            "Halcion",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/haldol": {
+        "info": [
+            "Haldol",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/haloperidol": {
+        "info": [
+            "Haloperidol",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/heather": {
+        "info": [
+            "Heather",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hectorol": {
+        "info": [
+            "Hectorol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/heparin": {
+        "info": [
+            "Heparin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hernia-mesh": {
+        "info": [
+            "Hernia mesh",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/histrelin-acetate": {
+        "info": [
+            "Histrelin acetate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/humalog": {
+        "info": [
+            "Humalog",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/humira-adalimumab-injection": {
+        "info": [
+            "Humira",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/humulin-n": {
+        "info": [
+            "Humulin N",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hydrochlorothiazide": {
+        "info": [
+            "Hydrochlorothiazide",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hydrocodone": {
+        "info": [
+            "Hydrocodone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hydroxycut": {
+        "info": [
+            "Hydroxycut",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hytrin": {
+        "info": [
+            "Hytrin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/hyzaar": {
+        "info": [
+            "Hyzaar",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ibogaine": {
+        "info": [
+            "Ibogaine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ibuprofen": {
+        "info": [
+            "Ibuprofen",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ic-green": {
+        "info": [
+            "Ic Green",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/imitrex": {
+        "info": [
+            "Imitrex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/implanon": {
+        "info": [
+            "Implanon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/incivek": {
+        "info": [
+            "Incivek",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/inderal": {
+        "info": [
+            "Inderal",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/inlyta": {
+        "info": [
+            "Inlyta",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/innohep": {
+        "info": [
+            "Innohep",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/intermezzo": {
+        "info": [
+            "Intermezzo",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/introvale": {
+        "info": [
+            "Introvale",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/intuniv": {
+        "info": [
+            "Intuniv",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/invega": {
+        "info": [
+            "Invega",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/invega-sustenna": {
+        "info": [
+            "Invega Sustenna",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/invirase": {
+        "info": [
+            "Invirase",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/iplex": {
+        "info": [
+            "Iplex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ipratropium": {
+        "info": [
+            "Ipratropium",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/iressa": {
+        "info": [
+            "Iressa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/isentress": {
+        "info": [
+            "Isentress",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/jantoven": {
+        "info": [
+            "Jantoven",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/janumet": {
+        "info": [
+            "Janumet",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/januvia": {
+        "info": [
+            "Januvia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/jentadueto": {
+        "info": [
+            "Jentadueto",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/jolessa": {
+        "info": [
+            "Jolessa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/juvisync": {
+        "info": [
+            "Juvisync",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/kaletra": {
+        "info": [
+            "Lopinavir",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/kalydeco": {
+        "info": [
+            "Kalydeco",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/kenalog": {
+        "info": [
+            "Kenalog",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/kepivance": {
+        "info": [
+            "Kepivance",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/keppra": {
+        "info": [
+            "Keppra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ketek": {
+        "info": [
+            "Ketek",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/kineret": {
+        "info": [
+            "Kineret",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/klonopin": {
+        "info": [
+            "Klonopin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/klor-con": {
+        "info": [
+            "Klor-Con",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/korlym": {
+        "info": [
+            "Korlym",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/kyprolis": {
+        "info": [
+            "Kyprolis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lamictal": {
+        "info": [
+            "Lamictal",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lamisil-oral": {
+        "info": [
+            "Lamisil Oral",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lanoxin": {
+        "info": [
+            "Lanoxin",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lansoprazole": {
+        "info": [
+            "Lansoprazole",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lantus": {
+        "info": [
+            "Lantus",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lariam": {
+        "info": [
+            "Lariam",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lasix": {
+        "info": [
+            "Lasix",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/latisse": {
+        "info": [
+            "Latisse",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/latuda": {
+        "info": [
+            "Latuda",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lazanda": {
+        "info": [
+            "Lazanda",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/leflunomide": {
+        "info": [
+            "Leflunomide",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/letairis": {
+        "info": [
+            "Letairis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/leucovorin-calcium-injection": {
+        "info": [
+            "Leucovorin Calcium Injection",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/leuprolide-acetate": {
+        "info": [
+            "Leuprolide acetate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/leustatin-2": {
+        "info": [
+            "Leustatin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levaquin": {
+        "info": [
+            "Levaquin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levemir": {
+        "info": [
+            "Levemir",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levitra": {
+        "info": [
+            "Levitra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levonorgestrel": {
+        "info": [
+            "Levonorgestrel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levothyroxine": {
+        "info": [
+            "Levothyroxine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levothyroxine-sodium": {
+        "info": [
+            "Levothyroxine sodium",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/levoxyl": {
+        "info": [
+            "Levoxyl",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lialda": {
+        "info": [
+            "Lialda",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lidocaine": {
+        "info": [
+            "Lidocaine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lidoderm": {
+        "info": [
+            "Lidoderm",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lindane": {
+        "info": [
+            "Lindane",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lipitor": {
+        "info": [
+            "Lipitor",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lisinopril": {
+        "info": [
+            "Lisinopril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lithium": {
+        "info": [
+            "Lithium",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lo-ovral": {
+        "info": [
+            "Lo Ovral",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lodosyn": {
+        "info": [
+            "Lodosyn",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/loestrin-24-fe": {
+        "info": [
+            "Loestrin 24 Fe",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lorazepam": {
+        "info": [
+            "Lorazepam",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lorcaserin": {
+        "info": [
+            "Lorcaserin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/losartan": {
+        "info": [
+            "Losartan",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lotensin": {
+        "info": [
+            "Lotensin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lotrel": {
+        "info": [
+            "Lotrel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lotrisone": {
+        "info": [
+            "Lotrisone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lotronex": {
+        "info": [
+            "Lotronex",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lovaza": {
+        "info": [
+            "Lovaza",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lovenox": {
+        "info": [
+            "Lovenox",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/loxapine": {
+        "info": [
+            "Loxapine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lucentis": {
+        "info": [
+            "Lucentis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lumigan": {
+        "info": [
+            "Lumigan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lunesta": {
+        "info": [
+            "Lunesta",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lupron": {
+        "info": [
+            "Lupron",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/luvox-fluvoxamine": {
+        "info": [
+            "Luvox",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lyrica": {
+        "info": [
+            "Lyrica",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/lyrica-2": {
+        "info": [
+            "Lyrica",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/macrobid": {
+        "info": [
+            "Macrobid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/macrodantin-nitrofurantoin": {
+        "info": [
+            "Macrodantin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/marinol": {
+        "info": [
+            "Marinol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/marqibo": {
+        "info": [
+            "Marqibo",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mavik": {
+        "info": [
+            "Mavik",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/maxalt": {
+        "info": [
+            "Maxalt",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/maxzide": {
+        "info": [
+            "Maxzide",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/medrol": {
+        "info": [
+            "Medrol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/medtronic-infuse-bone-graft": {
+        "info": [
+            "Medtronic Infuse Bone Graft",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/melatonin": {
+        "info": [
+            "Melatonin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mellaril": {
+        "info": [
+            "Mellaril",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/meloxicam": {
+        "info": [
+            "Meloxicam",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mepivacaine": {
+        "info": [
+            "Mepivacaine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/meridia": {
+        "info": [
+            "Meridia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mesh": {
+        "info": [
+            "Mesh",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/metadate": {
+        "info": [
+            "Metadate",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/metformin": {
+        "info": [
+            "Metformin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/methadone": {
+        "info": [
+            "Methadone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/methocarbamol": {
+        "info": [
+            "Methocarbamol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/methoxsalen": {
+        "info": [
+            "Methoxsalen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/methylin": {
+        "info": [
+            "Methylin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/methylprednisolon": {
+        "info": [
+            "Methylprednisolon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/metoprolol-succinate": {
+        "info": [
+            "Metoprolol Succinate",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mevacor": {
+        "info": [
+            "Mevacor",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/miacalcin": {
+        "info": [
+            "Miacalcin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/micardis": {
+        "info": [
+            "Micardis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/midodrine": {
+        "info": [
+            "Midodrine",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mifeprex": {
+        "info": [
+            "Mifeprex",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/minoxidil": {
+        "info": [
+            "Minoxidil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mirapex": {
+        "info": [
+            "Mirapex",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mirena": {
+        "info": [
+            "Mirena",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mirtazapine": {
+        "info": [
+            "Mirtazapine",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/misoprostol": {
+        "info": [
+            "Misoprostol",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mitoxantrone-hydrochloride": {
+        "info": [
+            "Mitoxantrone hydrochloride",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/moban": {
+        "info": [
+            "Moban",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mobic": {
+        "info": [
+            "Mobic",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/moexipril-2": {
+        "info": [
+            "Moexipril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/monopril": {
+        "info": [
+            "Monopril",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/morphine": {
+        "info": [
+            "Morphine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/motrin-ib": {
+        "info": [
+            "Motrin IB",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/multaq": {
+        "info": [
+            "Multaq",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/multihance": {
+        "info": [
+            "MultiHance",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mycophenolate": {
+        "info": [
+            "Mycophenolate",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mycophenolate-mofetil": {
+        "info": [
+            "Mycophenolate Mofetil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/mylotarg": {
+        "info": [
+            "Mylotarg",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/myobloc": {
+        "info": [
+            "Myobloc",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/myrbetriq": {
+        "info": [
+            "Myrbetriq",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/namenda": {
+        "info": [
+            "Namenda",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/naproxen": {
+        "info": [
+            "Naproxen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nardil": {
+        "info": [
+            "Nardil",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nasacort-aq": {
+        "info": [
+            "Nasacort AQ",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nasonex": {
+        "info": [
+            "Nasonex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nasonex-2": {
+        "info": [
+            "Nasonex",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/natazia": {
+        "info": [
+            "Natazia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/naturalyte": {
+        "info": [
+            "Naturalyte",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/neorecormon": {
+        "info": [
+            "NeoRecormon",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/neupogen": {
+        "info": [
+            "Neupogen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/neupro": {
+        "info": [
+            "Neupro",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/neurontin-2": {
+        "info": [
+            "Neurontin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nexium": {
+        "info": [
+            "Nexium",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/niaspan": {
+        "info": [
+            "Niaspan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nifedical": {
+        "info": [
+            "Nifedical",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nizoral": {
+        "info": [
+            "Nizoral",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/norvasc": {
+        "info": [
+            "Norvasc",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/norvir": {
+        "info": [
+            "Norvir",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/novolog-flexpen": {
+        "info": [
+            "NovoLog FlexPen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/novoseven-rt": {
+        "info": [
+            "NovoSeven RT",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nutropin-aq": {
+        "info": [
+            "Nutropin AQ",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nuvaring": {
+        "info": [
+            "NuvaRing",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/nuvigil": {
+        "info": [
+            "Nuvigil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/omeprazole": {
+        "info": [
+            "Omeprazole",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/omnicef": {
+        "info": [
+            "Omnicef",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/omnipaque": {
+        "info": [
+            "Omnipaque",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/omontys": {
+        "info": [
+            "Omontys",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/onglyza": {
+        "info": [
+            "Onglyza",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/opana": {
+        "info": [
+            "Opana ER",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/oracea": {
+        "info": [
+            "Oracea",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/orencia": {
+        "info": [
+            "Orencia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ortho-evra-birth-control-patch": {
+        "info": [
+            "Ortho Evra Birth Control Patch",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/oxycodone": {
+        "info": [
+            "Oxycodone",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/oxycontin-oxycodone-hydrochloride": {
+        "info": [
+            "OxyContin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/oxytocin": {
+        "info": [
+            "Oxytocin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pataday": {
+        "info": [
+            "Pataday",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/patanol": {
+        "info": [
+            "Patanol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/paxil-paroxetine": {
+        "info": [
+            "Paxil (Paroxetine)",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pegasys": {
+        "info": [
+            "Pegasys",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/penlac": {
+        "info": [
+            "Penlac",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pentasa": {
+        "info": [
+            "Pentasa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pepcid": {
+        "info": [
+            "Pepcid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/percocet": {
+        "info": [
+            "Percocet",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/perjeta": {
+        "info": [
+            "Perjeta",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/permax": {
+        "info": [
+            "Permax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pertzye": {
+        "info": [
+            "Pertzye",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/phenobarbital": {
+        "info": [
+            "Phenobarbital",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/phentermine": {
+        "info": [
+            "Phentermine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/phenytek": {
+        "info": [
+            "Phenytek",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/picato": {
+        "info": [
+            "Picato",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pip-implants": {
+        "info": [
+            "PIP Implants",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/plan-b": {
+        "info": [
+            "Plan B",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/plavix": {
+        "info": [
+            "Plavix",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/plendil": {
+        "info": [
+            "Plendil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pletal": {
+        "info": [
+            "Pletal",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pradaxa": {
+        "info": [
+            "Pradaxa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pramipexole": {
+        "info": [
+            "Pramipexole",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prandin": {
+        "info": [
+            "Prandin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pravachol": {
+        "info": [
+            "Pravachol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prednisone": {
+        "info": [
+            "Prednisone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/premarin": {
+        "info": [
+            "Premarin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prempro": {
+        "info": [
+            "PremPro",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prepopik": {
+        "info": [
+            "Prepopik",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prevacid": {
+        "info": [
+            "Prevacid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prevnar-13": {
+        "info": [
+            "Prevnar 13",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prexige": {
+        "info": [
+            "Prexige",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prezista": {
+        "info": [
+            "Prezista",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prilosec": {
+        "info": [
+            "Prilosec",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prinzide-lisinopril-and-hydrochlorothiazide": {
+        "info": [
+            "Prinzide (Lisinopril and Hydrochlorothiazide)",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pristiq": {
+        "info": [
+            "Pristiq",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/privigen": {
+        "info": [
+            "Privigen",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/proair-hfa": {
+        "info": [
+            "ProAir HFA",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/procardia": {
+        "info": [
+            "Procardia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/procrit": {
+        "info": [
+            "Procrit",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prograf": {
+        "info": [
+            "Prograf",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/promethazine-hcl": {
+        "info": [
+            "Promethazine HCl",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/propecia": {
+        "info": [
+            "Propecia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/proscar": {
+        "info": [
+            "Proscar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/protonix": {
+        "info": [
+            "Protonix",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/protopic": {
+        "info": [
+            "Protopic",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/proventil-hfa": {
+        "info": [
+            "Proventil HFA",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/provigil": {
+        "info": [
+            "Provigil",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/prozac-fluoxetine": {
+        "info": [
+            "Prozac",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pulmicort": {
+        "info": [
+            "Pulmicort",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/pulmozyme": {
+        "info": [
+            "Pulmozyme",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/purinethol": {
+        "info": [
+            "Purinethol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/qnasl": {
+        "info": [
+            "QNASL",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/qnexa": {
+        "info": [
+            "Qnexa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/qsymia": {
+        "info": [
+            "Qsymia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/qvar": {
+        "info": [
+            "Qvar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ramipril": {
+        "info": [
+            "Ramipril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ranexa": {
+        "info": [
+            "Ranexa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/raptiva": {
+        "info": [
+            "Raptiva",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/rayos": {
+        "info": [
+            "Rayos",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/rebetol": {
+        "info": [
+            "Rebetol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/rebif": {
+        "info": [
+            "Rebif",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/reclast": {
+        "info": [
+            "Reclast",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/reglan-metoclopramide-injection": {
+        "info": [
+            "Reglan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/relpax": {
+        "info": [
+            "Relpax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/remicade": {
+        "info": [
+            "Remicade",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/reminyl": {
+        "info": [
+            "Reminyl",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/renvela": {
+        "info": [
+            "Renvela",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/requip": {
+        "info": [
+            "Requip",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/restasis": {
+        "info": [
+            "Restasis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/restoril": {
+        "info": [
+            "Restoril",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/revlimid": {
+        "info": [
+            "Revlimid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/reyataz": {
+        "info": [
+            "Reyataz",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/rezulin": {
+        "info": [
+            "Rezulin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/riata-defibrillator-recall": {
+        "info": [
+            "Riata Defibrillator Recall",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/risperdal": {
+        "info": [
+            "Risperdal",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/rituxan": {
+        "info": [
+            "Rituxan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/robaxin": {
+        "info": [
+            "Robaxin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/robitussin-dac": {
+        "info": [
+            "Robitussin DAC",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/samsca": {
+        "info": [
+            "Samsca",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sandostatin-lar": {
+        "info": [
+            "Sandostatin LAR",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sensipar": {
+        "info": [
+            "Sensipar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/septra": {
+        "info": [
+            "Septra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/serevent-diskus": {
+        "info": [
+            "Serevent Diskus",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/seroquel": {
+        "info": [
+            "Seroquel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sertraline": {
+        "info": [
+            "Sertraline",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/serzone": {
+        "info": [
+            "Serzone",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/simponi": {
+        "info": [
+            "Simponi",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/simvastatin": {
+        "info": [
+            "Simvastatin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/singulair": {
+        "info": [
+            "Singulair",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/skelaxin": {
+        "info": [
+            "Skelaxin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sklice": {
+        "info": [
+            "Sklice",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/solodyn": {
+        "info": [
+            "Solodyn",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/soma": {
+        "info": [
+            "Soma",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/spiriva": {
+        "info": [
+            "Spiriva",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/spiriva-handihaler": {
+        "info": [
+            "Spiriva HandiHaler",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sporanox": {
+        "info": [
+            "Sporanox",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ssris": {
+        "info": [
+            "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/stalevo": {
+        "info": [
+            "Stalevo",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/stendra": {
+        "info": [
+            "Stendra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/strattera": {
+        "info": [
+            "Strattera",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/suboxone": {
+        "info": [
+            "Suboxone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/subsys": {
+        "info": [
+            "Subsys",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sudafed": {
+        "info": [
+            "Sudafed",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/surfaxin": {
+        "info": [
+            "Surfaxin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/surgical-mesh": {
+        "info": [
+            "Surgical Mesh",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sustiva": {
+        "info": [
+            "Sustiva",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/sutent": {
+        "info": [
+            "Sutent",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/symbicort": {
+        "info": [
+            "Symbicort",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/symbyax": {
+        "info": [
+            "Symbyax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/synagis": {
+        "info": [
+            "Synagis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/synthroid": {
+        "info": [
+            "Synthroid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/taclonex": {
+        "info": [
+            "Taclonex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tagamet-hb": {
+        "info": [
+            "Tagamet HB",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tamiflu": {
+        "info": [
+            "Tamiflu",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tarceva": {
+        "info": [
+            "Tarceva",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/taxotere": {
+        "info": [
+            "Taxotere",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/temodar": {
+        "info": [
+            "Temodar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tequin-2": {
+        "info": [
+            "Tequin",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/terazosin": {
+        "info": [
+            "Terazosin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tessalon-perles": {
+        "info": [
+            "Tessalon Perles",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/testim": {
+        "info": [
+            "Testim",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/thalomid": {
+        "info": [
+            "Thalomid",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/thimerosal": {
+        "info": [
+            "Thimerosal",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tiazac": {
+        "info": [
+            "Tiazac",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tobradex": {
+        "info": [
+            "Tobradex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/topamax": {
+        "info": [
+            "Topamax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/topiramate": {
+        "info": [
+            "Topiramate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/toprol": {
+        "info": [
+            "Toprol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tramadol-hydrochloride": {
+        "info": [
+            "Tramadol Hydrochloride",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/transvaginal-mesh": {
+        "info": [
+            "Transvaginal Mesh",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trasylol": {
+        "info": [
+            "Trasylol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/travatan-z": {
+        "info": [
+            "Travatan Z",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trazodone": {
+        "info": [
+            "Trazodone",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/treanda": {
+        "info": [
+            "Treanda",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trexall": {
+        "info": [
+            "Trexall",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tri-sprintec": {
+        "info": [
+            "Tri-Sprintec",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tricor": {
+        "info": [
+            "Tricor",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trileptal": {
+        "info": [
+            "Trileptal",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trilipix": {
+        "info": [
+            "Trilipix",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trinessa-28": {
+        "info": [
+            "TriNessa 28",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trivora-28": {
+        "info": [
+            "Trivora 28",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trizivir": {
+        "info": [
+            "Trizivir",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/trovan": {
+        "info": [
+            "Trovan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/truvada": {
+        "info": [
+            "Truvada",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tudorza-pressair": {
+        "info": [
+            "Tudorza Pressair",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tussionex": {
+        "info": [
+            "Tussionex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tylenol": {
+        "info": [
+            "Tylenol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tylenol-with-codeine-3": {
+        "info": [
+            "Tylenol with Codeine #3",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/tysabri": {
+        "info": [
+            "Tysabri",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ulesfia": {
+        "info": [
+            "Ulesfia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ultiva": {
+        "info": [
+            "Ultiva",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ultracet": {
+        "info": [
+            "Ultracet",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ultram-er": {
+        "info": [
+            "Ultram ER",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ultresa": {
+        "info": [
+            "Ultresa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/unithroid-levothyroxine": {
+        "info": [
+            "Unithroid (Levothyroxine)",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/uribel": {
+        "info": [
+            "Uribel",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/uroxatral": {
+        "info": [
+            "Uroxatral",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/valacyclovir-hydrochloride": {
+        "info": [
+            "Valacyclovir Hydrochloride",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/valcyte": {
+        "info": [
+            "Valcyte",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/valtrex": {
+        "info": [
+            "Valtrex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vancocin": {
+        "info": [
+            "Vancocin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vancomycin": {
+        "info": [
+            "Vancomycin",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/varivex": {
+        "info": [
+            "Varivax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vascepa": {
+        "info": [
+            "Vascepa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/velcade": {
+        "info": [
+            "Velcade",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/venlafaxine-hydrochloride": {
+        "info": [
+            "Venlafaxine Hydrochloride",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/venofer": {
+        "info": [
+            "Venofer",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ventavis": {
+        "info": [
+            "Ventavis",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ventolin-hfa": {
+        "info": [
+            "Ventolin HFA",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/veramyst": {
+        "info": [
+            "Veramyst",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vesicare": {
+        "info": [
+            "Vesicare",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/viagra": {
+        "info": [
+            "Viagra",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vicodin": {
+        "info": [
+            "Vicodin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/victoza": {
+        "info": [
+            "Victoza",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vigamox": {
+        "info": [
+            "Vigamox",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/viibryd-vilazodone": {
+        "info": [
+            "Viibryd",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/viokase": {
+        "info": [
+            "Viokase",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vioxx": {
+        "info": [
+            "Vioxx",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/viracept": {
+        "info": [
+            "Viracept",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/viramune": {
+        "info": [
+            "Viramune",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/viread": {
+        "info": [
+            "Viread",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vitamin-b-12-injection": {
+        "info": [
+            "Vitamin B-12 Injection",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vivelle-dot": {
+        "info": [
+            "Vivelle Dot",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/voltaren-1-gel": {
+        "info": [
+            "Voltaren 1% Gel",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/voraxaze": {
+        "info": [
+            "Voraxaze",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/votrient": {
+        "info": [
+            "Votrient",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vytorin": {
+        "info": [
+            "Vytorin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/vyvanse": {
+        "info": [
+            "Vyvanse",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/warfarin": {
+        "info": [
+            "Warfarin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/welchol": {
+        "info": [
+            "Welchol",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/wellbutrin": {
+        "info": [
+            "Wellbutrin",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/what-is-herceptin": {
+        "info": [
+            "Herceptin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/what-is-lexapro-escitalopram-oxalate": {
+        "info": [
+            "Lexapro",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/what-is-neulasta": {
+        "info": [
+            "Neulasta",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/what-is-quinidine-sulfate": {
+        "info": [
+            "Quinidine Sulfate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/wilate": {
+        "info": [
+            "Wilate",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xalatan": {
+        "info": [
+            "Xalatan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xanax": {
+        "info": [
+            "Xanax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xeljanz": {
+        "info": [
+            "Xeljanz",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xeloda": {
+        "info": [
+            "Xeloda",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xenazine-tetrabenazine": {
+        "info": [
+            "Xenazine",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xigris": {
+        "info": [
+            "Xigris",
+            "Recalled"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xolair": {
+        "info": [
+            "Xolair",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xopenex": {
+        "info": [
+            "Xopenex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xyzal": {
+        "info": [
+            "Xyzal",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/xyzal-2": {
+        "info": [
+            "Xyzal",
+            "Alert"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/yasmin-drospiranone-and-ethinyl-estradiol": {
+        "info": [
+            "Yasmin",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/yaz-birth-control-pill": {
+        "info": [
+            "Yaz Birth Control Pill",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/yervoy": {
+        "info": [
+            "Yervoy",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zaltrap": {
+        "info": [
+            "Zaltrap",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zanaflex": {
+        "info": [
+            "Zanaflex",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zantac": {
+        "info": [
+            "Zantac",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zaroxolyn": {
+        "info": [
+            "Zaroxolyn",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zegerid": {
+        "info": [
+            "Zegerid",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zelnorm": {
+        "info": [
+            "Zelnorm",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zemplar": {
+        "info": [
+            "Zemplar",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zemuron": {
+        "info": [
+            "Zemuron",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zerit": {
+        "info": [
+            "Zerit",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zetia": {
+        "info": [
+            "Zetia",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ziac": {
+        "info": [
+            "Ziac",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/ziagen": {
+        "info": [
+            "Ziagen",
+            "BlackBox"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zioptan": {
+        "info": [
+            "Zioptan",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zithromax": {
+        "info": [
+            "Zithromax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zmax": {
+        "info": [
+            "Zmax",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zocor": {
+        "info": [
+            "Zocor",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zofran": {
+        "info": [
+            "Zofran",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zoloft": {
+        "info": [
+            "Zoloft",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zoloft-and-pregnancy": {
+        "info": [
+            "Zoloft and Pregnancy",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zoloft-other-side-effects": {
+        "info": [
+            "Zoloft \u2013 Other Side Effects",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zometa": {
+        "info": [
+            "Zometa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zomig": {
+        "info": [
+            "Zomig",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zonegran-zonasamide": {
+        "info": [
+            "Zonegran | Zonasamide",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zosyn": {
+        "info": [
+            "Zosyn",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zovirax-topical": {
+        "info": [
+            "Zovirax Topical",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zyprexa": {
+        "info": [
+            "Zyprexa",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zyrtec": {
+        "info": [
+            "Zyrtec",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zyvox": {
+        "info": [
+            "Zyvox",
+            "Regular"
+        ]
+    },
+    "http://www.bad-drug.net/bad-drug/zzzquil": {
+        "info": [
+            "ZzzQuil",
+            "Regular"
+        ]
+    }
+}

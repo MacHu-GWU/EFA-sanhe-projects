@@ -1,0 +1,98 @@
+Pulmonary Hypertension	
+		
+Causes Incidence + Risk Factors	
+		
+l--- lifestyle - smoking, alcohol, diet (salt, fat intake), exercise			
+l--- genetic predisposition			
+l--- past use of fen-phen (dexfenfluramine and phentermine)			
+l--- chronic liver disease (cirrhosis)			
+l--- rheumatic disorders, such as scleroderma or lupus			
+l--- lung conditions, such as tumors, blood clots (pulmonary emboli), emphysema, COPD, pulmonary fibrosis			
+l--- heart diseases, such as aortic valve disease, left heart failure, mitral valve disease, congenital heart disease			
+l--- blood clot in large pulmonary artery (thromboembolic disease)			
+l--- high altitude living (higher than 8,000 ft/2,439 m)			
+l--- climbing to or hiking to altitudes higher than 8,000 ft (2,439 m) without acclimating first			
+l--- obesity			
+l--- sleep apnea and other sleep disorders			
+l--- sickle cell anemia			
+l--- use of certain stimulant drugs, such as cocaine			
+l--- AIDS	
+		
+Symptoms			
+l--- shortness of breath (dyspnea) with everyday activities			
+l--- fatigue			
+l--- dizziness or fainting spells (syncope)			
+l--- swelling (edema) in ankles, legs, abdomen			
+l--- chest pressure or pain			
+l--- bluish color to lips and skin (cyanosis)			
+l--- racing pulse or heart palpitations	
+		
+Signs + Test			
+l--- blood test			
+l--- doppler echocardiogram			
+l--- chest x-ray			
+l--- 6 minute walk test			
+l--- spirometer			
+l--- polysomnigram or overnight oximetry			
+l--- right heart catheterization			
+l--- ventilation perfusion scan (V/Q scan)			
+l--- pulmonary angiogram			
+l--- open-lung biopsy			
+l--- transesophageal echocardiogram			
+l--- MRI			
+l--- chest CT scan
+			
+Treatment			
+l--- no cure			
+l--- stop smoking			
+l--- medication			
+l--- surgical treatment to remove blood clot (pulmonary thromboendarterctomy) or open-heart surgery (atrial septostomy)			
+l--- lung or heart-lung transplantation
+			
+Treatment Motions			
+l--- reduce stress			
+l--- rest			
+l--- keep active			
+l--- avoid smokers			
+l--- avoid pregnancy or birth control pills 			
+l--- healthy diet - reduce salt intake (1,500 - 2,400 mg/day)			
+l--- avoid sitting in hot tub or sauna, long hot showers/baths			
+l--- avoid lifting heavy objects or weights
+			
+Complications			
+l--- right-sided heart failure (cor pumonale)			
+l--- blood clots			
+l--- irregular heartbeat (arrhthymia)			
+l--- coughing up blood (hemoptysis)
+			
+Blood Pressure	
+                               Classification		
+l--- Systolic/Diastolic (mmGh)			
+       l---  <120 / <80	optimal		
+       l---   <130 / <85	normal		
+       l---   130-139 / 85-89	high-normal		
+       l---    140-159 / 90-99	grade 1 hypertension (mild)		
+       l---    160-179 / 100-109	grade 2 hypertension (moderate)		
+       l---    =180 / =110	grade 3 hypertension (severe)		
+       l---    140-159 / <90	isolated systolic hypertension (grade 1)		
+       l---    =160 / <90	isolated systolic hypertension (grade 2)
+		
+*NOTE: if hypertensive, take 3 readings and drop first. Record next 2 and take average.		
+	
+Post Bronchodilator	Air flow obstruction	FEV %	
+l--- FEV, FVC		l--- predicted	
+       l---   <0.07 delta =10%	mild stage 1	= 80%	
+       l---    < 0.07 delta = 5%	mild-moderate stage 2	50 - 79%	
+       l---    < 0.07	moderate - severe stage 3	30 - 49%	
+       l---    < 0.07	very severe stage 4	< 30%	
+
+*NOTE: Delta means = no matter what other identifier is on, delta > 10% means there's something absolutely wrong
+
+
+Repository
+1. Pulmonary Hypertension. Cleveland Clinic. http://my.clevelandclinic.org/disorders/pulmonary_hypertension/hic_pulmonary_hypertension_causes_symptoms_diagnosis_treatment.aspx. Accessed Jun. 3, 2014.
+
+2. Mir MD, Fraz, et al. Guidelines for the Management of Hypertension. University of Cambridge; 2011. http://www.clinpharm.medschl.cam.ac.uk/public/BPGuidelines.pdf. Accessed Jun. 3, 2014.
+
+3. Pulmonary Hypertension: Tests and diagnosis. Mayo Clinic. http://www.mayoclinic.org/diseases-conditions/high-blood-pressure/basics/tests-diagnosis/con-20019580. Accessed Jun. 2, 2014.
+			

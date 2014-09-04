@@ -1,0 +1,6 @@
+I did two things
+1. Draw the time series plot for those 7 types of measurement for each patient.
+	The X axis is date, the Y axis is value. And the legend indicate that which is which.
+
+My target is to figure out:
+	if a vital sign (for example, Oxygen) changes very abnormal, we one.

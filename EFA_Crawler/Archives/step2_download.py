@@ -106,9 +106,9 @@ def main():
     spider._login(url = 'http://www.archives.com/member/', # 尝试登录
                   payload = {'__uid':'sanhe.hu@theeagleforce.net','__pwd':'efa2014'})
      
-    backup_counter = itertools.cycle(xrange(150)) # 备份循环计数器
+    backup_counter = itertools.cycle(xrange(1000)) # 备份循环计数器
     progress_counter = itertools.count(0)
-    for lastname, year, lower, upper, pagesize, pagenumber, queryurl in unit_task_generator(task, size = 250):
+    for lastname, year, lower, upper, pagesize, pagenumber, queryurl in unit_task_generator(task, size = 1000):
         
         history[lastname].setdefault(year, SparseInterval(0,0)) # try to initialize history[lastname][year] = SparseInterval(0, 0)
         if SparseInterval(lower, upper) not in history[lastname][year]: # 如果没有爬过
@@ -131,7 +131,7 @@ def main():
                 if (amount + 0.001)/total >= 0.8: # <=== 当有50%的条目是正确条目时,更新history
                     history[lastname][year] += SparseInterval(lower, upper)
  
-                if backup_counter.next() == 149: # 定时备份
+                if backup_counter.next() == 999: # 定时备份
                     history._dump(r'C:\Users\Sanhe.Hu\Data_warehouse\Archives\finished.p', replace = True)
                     print '===BACKUP finished.p and archive.db...==='
                     backup()
